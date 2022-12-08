@@ -1,4 +1,4 @@
-<h1>Sistema Web de Apoio à Transferência de Pacientes Entre Unidades Hospitalares</h1>
+<h1>STP - Sistema de Transferência de Pacientes</h1>
 
 <h2>Tabela de Conteúdo</h2>
 
@@ -7,7 +7,7 @@
 
 <h2>📄 Sobre o Projeto</h2>
 
-O projeto tem como objetivo elaborar um sistema web para apoio à transferências de pacientes entre unidades hospitalares. Este sistema deverá auxiliar os profissionais envolvidos com as transferências de diversos pacientes entre unidades hospitalares diferentes, facilitando a logística das transferências, as classificações delas, a aglutinação da documentação hospitalar legal referente à condição de cada paciente transferido, e à comunicação entre unidade hospitalar de origem e a unidade de destino.
+O projeto tem como objetivo elaborar um sistema web para apoio à transferências de pacientes entre unidades hospitalares. Este sistema deverá auxiliar o médico regulador responsável pela transferência de pacientes a selecionar a unidade de destino da transferência, facilitando a logística das transferências, as classificações delas, a aglutinação da documentação hospitalar legal referente à condição de cada paciente transferido, e à comunicação entre unidade hospitalar de origem e a unidade de destino.
 
 <h2>👨‍ Autores</h2>
 
