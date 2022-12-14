@@ -15,3 +15,6 @@ O projeto tem como objetivo elaborar um sistema web para apoio à transferência
 * [Fernando Severino Almeida](https://github.com/fernandosev)
 * [Karlos Daniel Pires da Silva](https://github.com/karlosdaniel451)
 * [Josenilton Santos de Jesus](https://github.com/newtonjose)
+
+<h2>Cronograma</h2>
+* [KanBan](https://github.com/users/arthur65535/projects/5)
