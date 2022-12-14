@@ -17,4 +17,5 @@ O projeto tem como objetivo elaborar um sistema web para apoio à transferência
 * [Josenilton Santos de Jesus](https://github.com/newtonjose)
 
 <h2>Cronograma</h2>
-* [KanBan](https://github.com/users/arthur65535/projects/5)
+
+* [Kanban](https://github.com/users/arthur65535/projects/5)
