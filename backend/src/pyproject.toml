@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "ptm-core"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "ptm_core"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+asyncpg = "^0.27.0"
+sqlalchemy = {extras = ["asyncio"], version = "^1.4.45"}
+psycopg2 = "^2.9.5"
+
+
+[tool.poetry.group.dev.dependencies]
+alembic = "^1.9.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
