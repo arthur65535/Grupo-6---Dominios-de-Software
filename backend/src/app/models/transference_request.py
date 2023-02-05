@@ -13,27 +13,35 @@ class TransferenceRequestBase(SQLModel):
     rationale: str
 
     patient_id: int | None = Field(
-        default=None, foreign_key='patient.id', nullable=False)
+        default=None, foreign_key="patient.id", nullable=False
+    )
 
     requesting_doctor_id: int | None = Field(
-        default=None, foreign_key='doctor.id', nullable=False)
+        default=None, foreign_key="doctor.id", nullable=False
+    )
 
     emd_doctor_id: int | None = Field(
-        default=None, foreign_key='emd_doctor.id', nullable=False)
+        default=None, foreign_key="emd_doctor.id", nullable=False
+    )
 
     medical_bed_type_id: int | None = Field(
-        default=None, foreign_key='medical_bed_type.id', nullable=False)
+        default=None, foreign_key="medical_bed_type.id", nullable=False
+    )
 
 
 class TransferenceRequest(TransferenceRequestBase, table=True):
-    __tablename__ = 'transference_request'
+    __tablename__ = "transference_request"
 
     id: int | None = Field(default=None, primary_key=True)
 
-    patient: Patient | None = Relationship(back_populates='transference_requests')
-    requesting_doctor: Doctor | None = Relationship(back_populates='transference_requests')
-    emd_doctor: EMDDoctor | None = Relationship(back_populates='transference_requests')
-    medical_bed_type: MedicalBedType | None = Relationship(back_populates='transference_requests')
+    patient: Patient | None = Relationship(back_populates="transference_requests")
+    requesting_doctor: Doctor | None = Relationship(
+        back_populates="transference_requests"
+    )
+    emd_doctor: EMDDoctor | None = Relationship(back_populates="transference_requests")
+    medical_bed_type: MedicalBedType | None = Relationship(
+        back_populates="transference_requests"
+    )
 
 
 class TransferenceRequestCreate(TransferenceRequestBase):

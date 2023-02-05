@@ -11,13 +11,13 @@ from app.models.hospital import *
 
 
 # PostgreSQL version:
-USER = 'postgres'
+USER = "postgres"
 PASSWORD = 123456789
-HOST = 'localhost'
+HOST = "localhost"
 PORT = 5432
-DATABASE = 'stp'
+DATABASE = "stp"
 
-CONNECTION_URL = f'postgresql://{USER}:{PASSWORD}@{HOST}:{PORT}/{DATABASE}'
+CONNECTION_URL = f"postgresql://{USER}:{PASSWORD}@{HOST}:{PORT}/{DATABASE}"
 engine = create_engine(CONNECTION_URL, echo=True)
 
 

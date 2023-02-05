@@ -5,7 +5,7 @@ from app.models.hospital import (
     Hospital,
     HospitalCreate,
     HospitalRead,
-    HospitalReadWithMedicalBeds
+    HospitalReadWithMedicalBeds,
 )
 
 
@@ -29,7 +29,7 @@ def get_hospital_by_id(id: int, db: Session) -> HospitalReadWithMedicalBeds:
     if not hospital:
         raise HTTPException(
             status_code=status.HTTP_404_NOT_FOUND,
-            detail=f'Not found hospital with id {id}'
+            detail=f"Not found hospital with id {id}",
         )
 
     return hospital
@@ -45,7 +45,7 @@ def delete_hospital_by_id(id: int, db: Session):
     if not hospital:
         raise HTTPException(
             status_code=status.HTTP_404_NOT_FOUND,
-            detail=f'Not found hospital with id {id}'
+            detail=f"Not found hospital with id {id}",
         )
 
     db.delete(hospital)

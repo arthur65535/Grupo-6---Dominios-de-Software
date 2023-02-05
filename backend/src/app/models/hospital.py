@@ -14,7 +14,7 @@ class HospitalBase(SQLModel):
 class Hospital(HospitalBase, table=True):
     id: int | None = Field(default=None, primary_key=True)
 
-    medical_beds: list['MedicalBed'] = Relationship(back_populates='hospital')
+    medical_beds: list["MedicalBed"] = Relationship(back_populates="hospital")
 
 
 class HospitalCreate(HospitalBase):
@@ -26,4 +26,4 @@ class HospitalRead(HospitalBase):
 
 
 class HospitalReadWithMedicalBeds(HospitalRead):
-    medical_beds: list['MedicalBedReadWithMedicalBedType'] = []
+    medical_beds: list["MedicalBedReadWithMedicalBedType"] = []

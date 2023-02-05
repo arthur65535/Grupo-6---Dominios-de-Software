@@ -12,17 +12,14 @@ class MedicalSpecialtyBase(SQLModel):
 
 
 class MedicalSpecialty(MedicalSpecialtyBase, table=True):
-    __tablename__ = 'medical_specialty'
+    __tablename__ = "medical_specialty"
 
     id: int | None = Field(
-        default=None,
-        primary_key=True,
-        sa_column_kwargs={'autoincrement': False}
+        default=None, primary_key=True, sa_column_kwargs={"autoincrement": False}
     )
 
     doctors: list[Doctor] = Relationship(
-        back_populates='medical_specialties',
-        link_model=DoctorMedicalSpecialtyLink
+        back_populates="medical_specialties", link_model=DoctorMedicalSpecialtyLink
     )
 
 
