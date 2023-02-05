@@ -1,6 +1,13 @@
 from sqlmodel import Session, SQLModel, create_engine
 
-from app.models.models import *
+from app.models.transference_request import *
+from app.models.medical_specialty import *
+from app.models.medical_bed_type import *
+from app.models.medical_bed import *
+from app.models.patient import *
+from app.models.emd_doctor import *
+from app.models.doctor import *
+from app.models.hospital import *
 
 
 # PostgreSQL version:

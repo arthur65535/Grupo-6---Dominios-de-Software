@@ -3,6 +3,9 @@ import datetime
 from sqlmodel import SQLModel, Field, Relationship
 
 
+# from app.models.medical_bed import MedicalBedRed
+
+
 class HospitalBase(SQLModel):
     name: str
     address: str
@@ -20,3 +23,7 @@ class HospitalCreate(HospitalBase):
 
 class HospitalRead(HospitalBase):
     id: int
+
+
+class HospitalReadWithMedicalBeds(HospitalRead):
+    medical_beds: list['MedicalBedReadWithMedicalBedType'] = []
