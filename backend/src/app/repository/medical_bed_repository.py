@@ -13,7 +13,7 @@ from app.repository import hospital_repository, medical_bed_type_repository
 def create_medical_bed_for_hospital(
     hospital_id: int, medical_bed: MedicalBedCreate, db: Session = Depends(get_session)
 ) -> MedicalBedReadWithMedicalBedType:
-    if not hospital_repository.get_hospital_by_id(id=hospital_id, db=db):
+    if not hospital_repository.get_hospital_by_id(pk_id=hospital_id, db=db):
         raise HTTPException(
             status_code=status.HTTP_404_NOT_FOUND,
             detail=f"Not found hospital with id {id} to add medical bed",
@@ -56,7 +56,7 @@ def get_all_medical_beds_of_given_type(
 def get_medical_beds_of_hospital(
     hospital_id: int, db: Session
 ) -> list[MedicalBedReadWithMedicalBedType]:
-    if not hospital_repository.get_hospital_by_id(id=hospital_id, db=db):
+    if not hospital_repository.get_hospital_by_id(pk_id=hospital_id, db=db):
         raise HTTPException(
             status_code=status.HTTP_404_NOT_FOUND,
             detail=f"Not found hospital with id {hospital_id}",

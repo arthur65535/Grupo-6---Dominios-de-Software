@@ -40,7 +40,7 @@ def get_all_hospitals(
 def get_hospital_by_id(
     id: int, db: Session = Depends(get_session)
 ) -> HospitalReadWithMedicalBeds:
-    return hospital_repository.get_hospital_by_id(id=id, db=db)
+    return hospital_repository.get_hospital_by_id(pk_id=id, db=db)
 
 
 @router.delete("/{id}", status_code=status.HTTP_204_NO_CONTENT)
