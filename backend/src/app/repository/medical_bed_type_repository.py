@@ -68,7 +68,7 @@ def delete_medical_bed_type_by_id(id: int, db: Session):
             detail=f'Not found medical bed type with id {id}'
         )
 
-    db.delete()
+    db.delete(medical_bed_type)
     db.commit()
 
 
@@ -83,7 +83,7 @@ def exists_medical_bed_type_with_id(id: int, db: Session) -> bool:
     return db.get(MedicalBedType, id)
 
 
-def delete_medical_bed_type_by_id(name: str, db: Session):
+def delete_medical_bed_type_by_name(name: str, db: Session):
     medical_bed_type = db.exec(
         select(MedicalBedType)
         .where(col(MedicalBedType.name) == name)

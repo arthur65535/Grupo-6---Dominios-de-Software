@@ -5,7 +5,7 @@ from app.models.hospital import (
     Hospital,
     HospitalCreate,
     HospitalRead,
-    HospitalReadWithMedicalBeds
+    HospitalReadWithMedicalBedsAndDoctors
 )
 
 
@@ -19,11 +19,11 @@ def create_hospital(hospital: HospitalCreate, db: Session) -> HospitalRead:
     return hospital_to_db
 
 
-def get_all_hospitals(db: Session) -> list[HospitalReadWithMedicalBeds]:
+def get_all_hospitals(db: Session) -> list[HospitalReadWithMedicalBedsAndDoctors]:
     return db.exec(select(Hospital)).all()
 
 
-def get_hospital_by_id(id: int, db: Session) -> HospitalReadWithMedicalBeds:
+def get_hospital_by_id(id: int, db: Session) -> HospitalReadWithMedicalBedsAndDoctors:
     hospital = db.exec(select(Hospital).where(Hospital.id == id)).first()
 
     if not hospital:
@@ -35,7 +35,7 @@ def get_hospital_by_id(id: int, db: Session) -> HospitalReadWithMedicalBeds:
     return hospital
 
 
-def exist_hospital_with_id(id: int, db: Session) -> bool:
+def exists_hospital_with_id(id: int, db: Session) -> bool:
     return db.get(Hospital, id)
 
 

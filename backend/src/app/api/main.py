@@ -3,7 +3,13 @@ from fastapi import FastAPI
 from fastapi.openapi.docs import get_swagger_ui_html
 from fastapi.responses import FileResponse
 
-from app.api.routers import hospitals, medical_bed_types, medical_beds
+from app.api.routers import (
+    doctors,
+    hospitals,
+    medical_bed_types,
+    medical_beds,
+    medical_specialties
+)
 
 
 def start():
@@ -34,9 +40,11 @@ def swagger_ui_html():
     )
 
 
+app.include_router(doctors.router, prefix='/doctors')
 app.include_router(hospitals.router, prefix='/hospitals')
 app.include_router(medical_beds.router, prefix='/medical-beds')
 app.include_router(medical_bed_types.router, prefix='/medical-bed-types')
+app.include_router(medical_specialties.router, prefix='/medical-specialties')
 
 
 @app.get('/')

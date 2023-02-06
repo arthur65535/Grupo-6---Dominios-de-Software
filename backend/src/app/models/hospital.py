@@ -2,8 +2,8 @@ import datetime
 
 from sqlmodel import SQLModel, Field, Relationship
 
-
-# from app.models.medical_bed import MedicalBedRed
+from app.models.doctor import Doctor
+from app.models.doctor_hospital_link import DoctorHospitalLink
 
 
 class HospitalBase(SQLModel):
@@ -16,6 +16,11 @@ class Hospital(HospitalBase, table=True):
 
     medical_beds: list['MedicalBed'] = Relationship(back_populates='hospital')
 
+    doctors: list[Doctor] = Relationship(
+        back_populates='hospitals',
+        link_model=DoctorHospitalLink
+    )
+
 
 class HospitalCreate(HospitalBase):
     pass
@@ -25,5 +30,6 @@ class HospitalRead(HospitalBase):
     id: int
 
 
-class HospitalReadWithMedicalBeds(HospitalRead):
+class HospitalReadWithMedicalBedsAndDoctors(HospitalRead):
     medical_beds: list['MedicalBedReadWithMedicalBedType'] = []
+    doctors: list[Doctor] = []

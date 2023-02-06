@@ -7,7 +7,8 @@ from app.models.doctor_medical_specialty_link import DoctorMedicalSpecialtyLink
 
 
 class MedicalSpecialtyBase(SQLModel):
-    name: str
+    id: int
+    name: str = Field(unique=True, index=True)
     description: str | None = None
 
 
@@ -31,4 +32,4 @@ class MedicalSpecialtyCreate(MedicalSpecialtyBase):
 
 
 class MedicalSpecialtyRead(MedicalSpecialtyBase):
-    id: int
+    pass
