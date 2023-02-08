@@ -8,4 +8,4 @@ provider:
 
 functions:
   hello:
-    handler: handler.hello
+    handler: lambdas.transfer_request.handle

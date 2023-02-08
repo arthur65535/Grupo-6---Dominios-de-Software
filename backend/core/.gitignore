@@ -307,4 +307,7 @@ poetry.toml
 # ruff
 .ruff_cache/
 
+# pycharm
+.idea/
+
 # End of https://www.toptal.com/developers/gitignore/api/python,node
