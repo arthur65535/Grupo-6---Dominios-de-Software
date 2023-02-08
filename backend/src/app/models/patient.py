@@ -13,8 +13,8 @@ class PatientBase(SQLModel):
 class Patient(PatientBase, table=True):
     id: int | None = Field(default=None, primary_key=True)
 
-    transference_requests: list['TransferenceRequest'] = Relationship(
-        back_populates='patient'
+    transference_requests: list["TransferenceRequest"] = Relationship(
+        back_populates="patient"
     )
 
 

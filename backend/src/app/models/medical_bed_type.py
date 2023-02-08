@@ -9,15 +9,15 @@ class MedicalBedTypeBase(SQLModel):
 
 
 class MedicalBedType(MedicalBedTypeBase, table=True):
-    __tablename__ = 'medical_bed_type'
+    __tablename__ = "medical_bed_type"
 
     id: int | None = Field(default=None, primary_key=True)
 
-    medical_beds: list['MedicalBed'] = Relationship(
-        back_populates='medical_bed_type')
+    medical_beds: list["MedicalBed"] = Relationship(back_populates="medical_bed_type")
 
-    transference_requests: list['TransferenceRequest'] = Relationship(
-        back_populates='medical_bed_type')
+    transference_requests: list["TransferenceRequest"] = Relationship(
+        back_populates="medical_bed_type"
+    )
 
 
 class MedicalBedTypeCreate(MedicalBedTypeBase):

@@ -1,1 +1,4 @@
 Generic single-database configuration.
+
+### Run Migrations
+`poetry run alembic upgrade head`

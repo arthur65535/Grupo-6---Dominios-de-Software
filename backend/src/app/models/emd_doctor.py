@@ -13,12 +13,12 @@ class EMDDoctorBase(SQLModel):
 
 
 class EMDDoctor(EMDDoctorBase, table=True):
-    __tablename__ = 'emd_doctor'
+    __tablename__ = "emd_doctor"
 
     id: int | None = Field(default=None, primary_key=True)
 
-    transference_requests: list['TransferenceRequest'] = Relationship(
-        back_populates='emd_doctor'
+    transference_requests: list["TransferenceRequest"] = Relationship(
+        back_populates="emd_doctor"
     )
 
 
