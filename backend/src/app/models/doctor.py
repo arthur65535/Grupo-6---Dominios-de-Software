@@ -3,6 +3,7 @@ import datetime
 from sqlmodel import SQLModel, Field, Relationship
 
 from app.models.doctor_medical_specialty_link import DoctorMedicalSpecialtyLink
+from app.models.doctor_hospital_link import DoctorHospitalLink
 
 
 class DoctorBase(SQLModel):
@@ -25,6 +26,9 @@ class Doctor(DoctorBase, table=True):
         back_populates="requesting_doctor"
     )
 
+    hospitals: list['Hospital'] = Relationship(
+        back_populates='doctors', link_model=DoctorHospitalLink)
+
 
 class DoctorCreate(DoctorBase):
     pass
@@ -32,3 +36,7 @@ class DoctorCreate(DoctorBase):
 
 class DoctorRead(DoctorBase):
     id: int
+
+
+class DoctorReadWithMedicalSpecialties(DoctorRead):
+    medical_specialties: list['MedicalSpecialty'] = []

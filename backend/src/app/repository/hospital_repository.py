@@ -5,7 +5,7 @@ from app.models.hospital import (
     Hospital,
     HospitalCreate,
     HospitalRead,
-    HospitalReadWithMedicalBeds,
+    HospitalReadWithMedicalBedsAndDoctors
 )
 
 
@@ -19,14 +19,13 @@ def create_hospital(hospital: HospitalCreate, db: Session) -> HospitalRead:
     return HospitalRead.from_orm(hospital_to_db)
 
 
-def get_all_(db: Session) -> list[HospitalReadWithMedicalBeds]:
-    hospitals = db.exec(select(Hospital)).all()
+def get_all_hospitals(db: Session) -> list[HospitalReadWithMedicalBedsAndDoctors]:
+    return db.exec(select(Hospital)).all()
 
     return [HospitalReadWithMedicalBeds.from_orm(hospital) for hospital in hospitals]
 
-
-def get_hospital_by_id(pk_id: int, db: Session) -> HospitalReadWithMedicalBeds:
-    hospital = db.get(Hospital, pk_id)
+def get_hospital_by_id(id: int, db: Session) -> HospitalReadWithMedicalBedsAndDoctors:
+    hospital = db.exec(select(Hospital).where(Hospital.id == id)).first()
 
     if not hospital:
         raise HTTPException(
