@@ -20,15 +20,15 @@ class MedicalBedBase(SQLModel):
         default=None, foreign_key="medical_bed_type.id", nullable=False
     )
 
+    hospital_id: int | None = Field(
+        default=None, foreign_key="hospital.id", nullable=False
+    )
+
 
 class MedicalBed(MedicalBedBase, table=True):
     __tablename__ = "medical_bed"
 
     id: int | None = Field(default=None, primary_key=True)
-
-    hospital_id: int | None = Field(
-        default=None, foreign_key="hospital.id", nullable=False
-    )
 
     medical_bed_type: MedicalBedType = Relationship(back_populates="medical_beds")
     hospital: Hospital = Relationship(back_populates="medical_beds")

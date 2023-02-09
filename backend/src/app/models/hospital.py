@@ -2,7 +2,7 @@ import datetime
 
 from sqlmodel import SQLModel, Field, Relationship
 
-from app.models.doctor import Doctor
+from app.models.doctor import Doctor, DoctorReadWithMedicalSpecialties
 from app.models.doctor_hospital_link import DoctorHospitalLink
 
 
@@ -21,6 +21,12 @@ class Hospital(HospitalBase, table=True):
         link_model=DoctorHospitalLink
     )
 
+    transference_requests: list['TransferenceRequest'] = Relationship(
+        back_populates='requesting_hospital')
+
+    incoming_transferences: list['PatientTransference'] = Relationship(
+        back_populates='destination_hospital')
+
 
 class HospitalCreate(HospitalBase):
     pass
@@ -32,4 +38,4 @@ class HospitalRead(HospitalBase):
 
 class HospitalReadWithMedicalBedsAndDoctors(HospitalRead):
     medical_beds: list['MedicalBedReadWithMedicalBedType'] = []
-    doctors: list[Doctor] = []
+    doctors: list[DoctorReadWithMedicalSpecialties] = []

@@ -12,6 +12,7 @@ from app.models.hospital import *
 from app.models.medical_bed_type import *
 from app.models.medical_bed import *
 from app.models.medical_specialty import *
+from app.models.patient_transference import *
 from app.models.transference_request import *
 from app.models.patient import *
 

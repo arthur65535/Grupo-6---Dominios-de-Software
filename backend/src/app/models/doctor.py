@@ -19,12 +19,13 @@ class Doctor(DoctorBase, table=True):
     id: int | None = Field(default=None, primary_key=True)
 
     medical_specialties: list["MedicalSpecialty"] = Relationship(
-        back_populates="doctors", link_model=DoctorMedicalSpecialtyLink
-    )
+        back_populates="doctors", link_model=DoctorMedicalSpecialtyLink)
 
     transference_requests: list["TransferenceRequest"] = Relationship(
-        back_populates="requesting_doctor"
-    )
+        back_populates="requesting_doctor")
+
+    received_transferences: list['PatientTransference'] = Relationship(
+        back_populates='receiving_doctor')
 
     hospitals: list['Hospital'] = Relationship(
         back_populates='doctors', link_model=DoctorHospitalLink)

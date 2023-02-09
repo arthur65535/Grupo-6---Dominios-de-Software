@@ -5,10 +5,14 @@ from fastapi.responses import FileResponse
 
 from app.api.routers import (
     doctors,
+    emd_doctors,
     hospitals,
     medical_bed_types,
     medical_beds,
-    medical_specialties
+    medical_specialties,
+    patients,
+    patient_transferences,
+    transference_requests
 )
 
 
@@ -37,11 +41,20 @@ def swagger_ui_html():
         swagger_favicon_url="/favicon.ico",
     )
 
+
 app.include_router(doctors.router, prefix='/doctors')
+app.include_router(emd_doctors.router, prefix='/emd-doctors')
 app.include_router(hospitals.router, prefix='/hospitals')
 app.include_router(medical_beds.router, prefix='/medical-beds')
 app.include_router(medical_bed_types.router, prefix='/medical-bed-types')
 app.include_router(medical_specialties.router, prefix='/medical-specialties')
+app.include_router(patients.router, prefix='/patients')
+app.include_router(
+    patient_transferences.router, prefix='/patient-transferences'
+)
+app.include_router(
+    transference_requests.router, prefix='/transference-requests'
+)
 
 
 @app.get("/")

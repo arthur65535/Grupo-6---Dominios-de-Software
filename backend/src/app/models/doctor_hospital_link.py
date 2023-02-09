@@ -11,4 +11,3 @@ class DoctorHospitalLink(SQLModel, table=True):
 
     hospital: int | None = Field(
         default=None, foreign_key='hospital.id', primary_key=True)
-

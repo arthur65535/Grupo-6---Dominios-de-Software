@@ -23,9 +23,6 @@ from app.repository import (
 HospitalReadWithMedicalBedsAndDoctors.update_forward_refs(
     MedicalBedReadWithMedicalBedType=MedicalBedReadWithMedicalBedType
 )
-DoctorReadWithMedicalSpecialties.update_forward_refs(
-    MedicalSpecialty=MedicalSpecialty
-)
 
 
 router = APIRouter()
@@ -61,14 +58,16 @@ def delete_hospital_by_id(id: int, db: Session = Depends(get_session)):
 
 @router.post("/{hospital_id}/medical-beds", status_code=status.HTTP_201_CREATED)
 def create_medical_bed_for_hospital(
-    hospital_id: int, medical_bed: MedicalBedCreate, db: Session = Depends(get_session)
+    hospital_id: int,
+    medical_bed: MedicalBedCreate,
+    db: Session = Depends(get_session)
 ) -> MedicalBedRead:
     return medical_bed_repository.create_medical_bed_for_hospital(
         hospital_id=hospital_id, medical_bed=medical_bed, db=db
     )
 
 
-@router.put('/{hospital_id}/doctors/{doctor_id}', status_code=status.HTTP_204_NO_CONTENT)
+@router.put("/{hospital_id}/doctors/{doctor_id}", status_code=status.HTTP_204_NO_CONTENT)
 def link_doctor_to_hospital(
         hospital_id: int,
         doctor_id: int,
@@ -79,7 +78,7 @@ def link_doctor_to_hospital(
         doctor_id, hospital_id, db)
 
 
-@router.get('/{hospital_id}/doctors/')
+@router.get("/{hospital_id}/doctors/")
 def get_doctors_of_hospital(
     hospital_id,
     db: Session = Depends(get_session)

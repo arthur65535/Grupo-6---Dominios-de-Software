@@ -17,8 +17,8 @@ class EMDDoctor(EMDDoctorBase, table=True):
 
     id: int | None = Field(default=None, primary_key=True)
 
-    transference_requests: list["TransferenceRequest"] = Relationship(
-        back_populates="emd_doctor"
+    patient_transferences: list['PatientTransference'] = Relationship(
+        back_populates='emd_doctor'
     )
 
 
