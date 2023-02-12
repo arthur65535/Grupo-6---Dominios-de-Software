@@ -1,4 +1,5 @@
 import datetime
+import enum
 
 from sqlmodel import SQLModel, Field, Relationship
 
@@ -6,9 +7,32 @@ from app.models.doctor import Doctor, DoctorReadWithMedicalSpecialties
 from app.models.doctor_hospital_link import DoctorHospitalLink
 
 
+class HospitalManagement(enum.Enum):
+    ESTADUAL = "estadual"
+    MUNICIPAL = "municipal"
+    DUPLA = "dupla"
+
+
+class HospitalManagementType(enum.Enum):
+    ADMINISTRACAL_PUBLICA = "Administração pública"
+    ENTIDADES_EMPRESARIAIS = "Entidades empresariais"
+    ENTIDADES_SEM_FINS_LUCRATIVOS = "Entidades sem fins lucrativos"
+    ORGANIZACOES_INTERNACIONAIS_OUTRAS = "Organizações internacionais/outras"
+    PESSOAS_FISICAS = "Pessoas físicas"
+
+
 class HospitalBase(SQLModel):
     name: str
+    initials: str
     address: str
+    CNES: str = Field(unique=True)
+    phone_number_1: str
+    phone_number_2: str
+    is_active: bool
+    CNPJ: str = Field(unique=True)
+    email_address: str
+    management: HospitalManagement
+    management_type: HospitalManagementType
 
 
 class Hospital(HospitalBase, table=True):

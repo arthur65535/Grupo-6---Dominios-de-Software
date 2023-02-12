@@ -8,6 +8,18 @@ class PatientBase(SQLModel):
     birth_date: datetime.date | None
     gender: str
     address: str | None = None
+    email_address: str | None
+    CNS: str | None = Field(unique=True)
+    CPF: str | None = Field(unique=True)
+    RG: str | None
+    mother_name: str | None
+    father_name: str | None
+    ethnic_group: str | None
+    phone_number: str | None
+    is_deceased: bool
+    is_deprived_of_liberty: bool | None
+    has_disability: bool | None
+
 
 
 class Patient(PatientBase, table=True):
