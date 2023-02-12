@@ -1,0 +1,277 @@
+[
+    {
+        "id": 1,
+        "name": "Acupuntura",
+        "description": null
+    },
+    {
+        "id": 2,
+        "name": "Alergia e imunologia",
+        "description": null
+    },
+    {
+        "id": 3,
+        "name": "Anestesiologia",
+        "description": null
+    },
+    {
+        "id": 4,
+        "name": "Angiologia",
+        "description": null
+    },
+    {
+        "id": 5,
+        "name": "Cardiologia",
+        "description": null
+    },
+    {
+        "id": 6,
+        "name": "Cirurgia cardiovascular",
+        "description": null
+    },
+    {
+        "id": 7,
+        "name": "Cirurgia da m\u00e3o",
+        "description": null
+    },
+    {
+        "id": 8,
+        "name": "Cirurgia de cabe\u00e7a e pesco\u00e7o",
+        "description": null
+    },
+    {
+        "id": 9,
+        "name": "Cirurgia do aparelho digestivo",
+        "description": null
+    },
+    {
+        "id": 10,
+        "name": "Cirurgia geral",
+        "description": null
+    },
+    {
+        "id": 11,
+        "name": "Cirurgia oncol\u00f3gica",
+        "description": null
+    },
+    {
+        "id": 12,
+        "name": "Cirurgia pedi\u00e1trica",
+        "description": null
+    },
+    {
+        "id": 13,
+        "name": "Cirurgia pl\u00e1stica",
+        "description": null
+    },
+    {
+        "id": 14,
+        "name": "Cirurgia tor\u00e1cica",
+        "description": null
+    },
+    {
+        "id": 15,
+        "name": "Cirurgia vascular",
+        "description": null
+    },
+    {
+        "id": 16,
+        "name": "Cl\u00ednica m\u00e9dica",
+        "description": null
+    },
+    {
+        "id": 17,
+        "name": "Coloproctologia",
+        "description": null
+    },
+    {
+        "id": 18,
+        "name": "Dermatologia",
+        "description": null
+    },
+    {
+        "id": 19,
+        "name": "Endocrinologia e metabologia",
+        "description": null
+    },
+    {
+        "id": 20,
+        "name": "Endoscopia",
+        "description": null
+    },
+    {
+        "id": 21,
+        "name": "Gastroenterologia",
+        "description": null
+    },
+    {
+        "id": 22,
+        "name": "Gen\u00e9tica m\u00e9dica",
+        "description": null
+    },
+    {
+        "id": 23,
+        "name": "Geriatria",
+        "description": null
+    },
+    {
+        "id": 24,
+        "name": "Ginecologia e obstetr\u00edcia",
+        "description": null
+    },
+    {
+        "id": 25,
+        "name": "Hematologia e hemoterapia",
+        "description": null
+    },
+    {
+        "id": 26,
+        "name": "Homeopatia",
+        "description": null
+    },
+    {
+        "id": 27,
+        "name": "Infectologia",
+        "description": null
+    },
+    {
+        "id": 28,
+        "name": "Mastologia",
+        "description": null
+    },
+    {
+        "id": 29,
+        "name": "Medicina de emerg\u00eancia",
+        "description": null
+    },
+    {
+        "id": 30,
+        "name": "Medicina de fam\u00edlia e comunidade",
+        "description": null
+    },
+    {
+        "id": 31,
+        "name": "Medicina do trabalho",
+        "description": null
+    },
+    {
+        "id": 32,
+        "name": "Medicina de tr\u00e1fego",
+        "description": null
+    },
+    {
+        "id": 33,
+        "name": "Medicina esportiva",
+        "description": null
+    },
+    {
+        "id": 34,
+        "name": "Medicina f\u00edsica e reabilita\u00e7\u00e3o",
+        "description": null
+    },
+    {
+        "id": 35,
+        "name": "Medicina intensiva",
+        "description": null
+    },
+    {
+        "id": 36,
+        "name": "Medicina legal e per\u00edcia m\u00e9dica",
+        "description": null
+    },
+    {
+        "id": 37,
+        "name": "Medicina nuclear",
+        "description": null
+    },
+    {
+        "id": 38,
+        "name": "Medicina preventiva e social",
+        "description": null
+    },
+    {
+        "id": 39,
+        "name": "Nefrologia",
+        "description": null
+    },
+    {
+        "id": 40,
+        "name": "Neurocirurgia",
+        "description": null
+    },
+    {
+        "id": 41,
+        "name": "Neurologia",
+        "description": null
+    },
+    {
+        "id": 42,
+        "name": "Nutrologia",
+        "description": null
+    },
+    {
+        "id": 43,
+        "name": "Oftalmologia",
+        "description": null
+    },
+    {
+        "id": 44,
+        "name": "Oncologia cl\u00ednica",
+        "description": null
+    },
+    {
+        "id": 45,
+        "name": "Ortopedia e traumatologia",
+        "description": null
+    },
+    {
+        "id": 46,
+        "name": "Otorrinolaringologia",
+        "description": null
+    },
+    {
+        "id": 47,
+        "name": "Patologia",
+        "description": null
+    },
+    {
+        "id": 48,
+        "name": "Patologia cl\u00ednica/medicina laboratorial",
+        "description": null
+    },
+    {
+        "id": 49,
+        "name": "Pediatria",
+        "description": null
+    },
+    {
+        "id": 50,
+        "name": "Pneumologia",
+        "description": null
+    },
+    {
+        "id": 51,
+        "name": "Psiquiatria",
+        "description": null
+    },
+    {
+        "id": 52,
+        "name": "Radiologia e diagn\u00f3stico por imagem",
+        "description": null
+    },
+    {
+        "id": 53,
+        "name": "Radioterapia",
+        "description": null
+    },
+    {
+        "id": 54,
+        "name": "Reumatologia",
+        "description": null
+    },
+    {
+        "id": 55,
+        "name": "Urologia",
+        "description": null
+    }
+]

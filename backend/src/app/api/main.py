@@ -3,6 +3,8 @@ from fastapi import FastAPI
 from fastapi.openapi.docs import get_swagger_ui_html
 from fastapi.responses import FileResponse
 
+from app.db.database import insert_predefined_data
+
 from app.api.routers import (
     doctors,
     emd_doctors,
@@ -26,6 +28,10 @@ app = FastAPI(
 )
 
 FAVICON_PATH = "favicon.ico"
+
+@app.on_event('startup')
+def on_startup():
+    insert_predefined_data()
 
 
 @app.get("/favicon.ico", include_in_schema=False)
