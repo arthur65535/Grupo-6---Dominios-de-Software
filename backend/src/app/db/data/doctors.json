@@ -1,0 +1,302 @@
+[
+    {
+        "name": "Pedro Miguel Lima",
+        "state": "GO",
+        "CRM": "97501",
+        "CPF": "64378290529",
+        "RG": "7812036",
+        "birth_date": "1970-10-29",
+        "gender": "M",
+        "address": "Conjunto de Gomes\nVila Pinho\n02472-450 Fernandes de Goi\u00e1s / PR"
+    },
+    {
+        "name": "Srta. Melissa Barros",
+        "state": "GO",
+        "CRM": "31965",
+        "CPF": "47596203892",
+        "RG": "0365479",
+        "birth_date": "1966-10-19",
+        "gender": "F",
+        "address": "Pra\u00e7a Lucas Costela, 271\nLaranjeiras\n34201717 Duarte das Pedras / PR"
+    },
+    {
+        "name": "Pedro Miguel Fernandes",
+        "state": "GO",
+        "CRM": "27360",
+        "CPF": "53806794120",
+        "RG": "6138409",
+        "birth_date": "1976-10-17",
+        "gender": "M",
+        "address": "Loteamento de Barbosa, 49\nAnchieta\n03922635 da Rosa Paulista / TO"
+    },
+    {
+        "name": "Laura Cunha",
+        "state": "GO",
+        "CRM": "54869",
+        "CPF": "10492573832",
+        "RG": "8912654",
+        "birth_date": "1950-11-09",
+        "gender": "F",
+        "address": "Esta\u00e7\u00e3o de Viana, 84\nUnidas\n88272823 Moreira / MA"
+    },
+    {
+        "name": "Sr. Ian da Paz",
+        "state": "GO",
+        "CRM": "05136",
+        "CPF": "96503274106",
+        "RG": "0389451",
+        "birth_date": "1975-02-08",
+        "gender": "M",
+        "address": "Setor da Rocha, 79\nIpiranga\n05086336 da Concei\u00e7\u00e3o / MG"
+    },
+    {
+        "name": "Camila Rezende",
+        "state": "GO",
+        "CRM": "37082",
+        "CPF": "63092871502",
+        "RG": "4382076",
+        "birth_date": "1995-05-29",
+        "gender": "F",
+        "address": "Passarela Pinto, 9\nTiradentes\n11268837 da Rocha de Rodrigues / GO"
+    },
+    {
+        "name": "Sr. Henrique Souza",
+        "state": "GO",
+        "CRM": "86940",
+        "CPF": "37265491882",
+        "RG": "3297140",
+        "birth_date": "1961-01-09",
+        "gender": "M",
+        "address": "Morro Campos, 81\nConjunto Celso Machado\n01692445 Rodrigues / AM"
+    },
+    {
+        "name": "Ana Beatriz Farias",
+        "state": "GO",
+        "CRM": "90281",
+        "CPF": "18650439748",
+        "RG": "4839061",
+        "birth_date": "1986-04-15",
+        "gender": "F",
+        "address": "Pra\u00e7a Helena Costela, 54\nJo\u00e3o Paulo Ii\n30371681 Azevedo / MG"
+    },
+    {
+        "name": "Jo\u00e3o Felipe Gomes",
+        "state": "GO",
+        "CRM": "01643",
+        "CPF": "51807346226",
+        "RG": "7852091",
+        "birth_date": "1972-10-10",
+        "gender": "M",
+        "address": "Favela Jo\u00e3o Pereira, 2\nPiraja\n14985009 Ramos Grande / PE"
+    },
+    {
+        "name": "Ana J\u00falia Nunes",
+        "state": "GO",
+        "CRM": "27398",
+        "CPF": "58371926030",
+        "RG": "8031954",
+        "birth_date": "1958-07-21",
+        "gender": "F",
+        "address": "Jardim de das Neves, 83\nAcaba Mundo\n66497393 Martins Verde / PB"
+    },
+    {
+        "name": "Nathan Fernandes",
+        "state": "GO",
+        "CRM": "21354",
+        "CPF": "90741536820",
+        "RG": "1825306",
+        "birth_date": "1950-05-07",
+        "gender": "M",
+        "address": "Vila Costela, 2\nVila Nova Cachoeirinha 3\u00aa Se\u00e7\u00e3o\n01467582 Ferreira / SC"
+    },
+    {
+        "name": "Mariane Caldeira",
+        "state": "GO",
+        "CRM": "20593",
+        "CPF": "32867045983",
+        "RG": "1048235",
+        "birth_date": "1972-01-27",
+        "gender": "F",
+        "address": "\u00c1rea Pereira\nAcaba Mundo\n95758-499 Dias da Serra / CE"
+    },
+    {
+        "name": "Pedro Lucas Monteiro",
+        "state": "GO",
+        "CRM": "01645",
+        "CPF": "70269384529",
+        "RG": "7569401",
+        "birth_date": "1973-09-12",
+        "gender": "M",
+        "address": "Ch\u00e1cara Bianca Cardoso, 35\nBoa Uni\u00e3o 1\u00aa Se\u00e7\u00e3o\n66853-068 Barros das Flores / GO"
+    },
+    {
+        "name": "Sra. J\u00falia da Mata",
+        "state": "GO",
+        "CRM": "09246",
+        "CPF": "19687452382",
+        "RG": "8306745",
+        "birth_date": "1977-01-21",
+        "gender": "F",
+        "address": "Jardim de da Cruz, 4\nTupi A\n60127754 Almeida / RJ"
+    },
+    {
+        "name": "Vitor Hugo Viana",
+        "state": "GO",
+        "CRM": "38041",
+        "CPF": "10265743826",
+        "RG": "5248903",
+        "birth_date": "1958-09-10",
+        "gender": "M",
+        "address": "Setor Augusto Viana, 31\nOlaria\n15653148 Souza / PE"
+    },
+    {
+        "name": "Srta. Joana Pires",
+        "state": "GO",
+        "CRM": "82409",
+        "CPF": "18709263403",
+        "RG": "7984623",
+        "birth_date": "1987-12-24",
+        "gender": "F",
+        "address": "Quadra da Rosa\nBela Vitoria\n74151179 Nogueira de Farias / MT"
+    },
+    {
+        "name": "Vitor Hugo Silveira",
+        "state": "GO",
+        "CRM": "98725",
+        "CPF": "41892036533",
+        "RG": "6759403",
+        "birth_date": "1980-07-22",
+        "gender": "M",
+        "address": "S\u00edtio de Cavalcanti, 581\nNova Esperan\u00e7a\n79804-501 Melo / RS"
+    },
+    {
+        "name": "Srta. Joana Costela",
+        "state": "GO",
+        "CRM": "46235",
+        "CPF": "71953068286",
+        "RG": "4132705",
+        "birth_date": "1987-07-08",
+        "gender": "F",
+        "address": "Loteamento de Santos, 26\nConjunto Capit\u00e3o Eduardo\n76447427 Cardoso / PE"
+    },
+    {
+        "name": "Calebe Farias",
+        "state": "GO",
+        "CRM": "71506",
+        "CPF": "81794523600",
+        "RG": "6803192",
+        "birth_date": "1993-08-23",
+        "gender": "M",
+        "address": "Vale de da Rosa, 3\nCaetano Furquim\n62553-863 Ramos do Campo / AC"
+    },
+    {
+        "name": "Manuela Mendes",
+        "state": "GO",
+        "CRM": "13678",
+        "CPF": "95128076377",
+        "RG": "8903572",
+        "birth_date": "1989-09-24",
+        "gender": "F",
+        "address": "Vila Ana Vit\u00f3ria Monteiro, 817\nS\u00e3o Lucas\n14407-071 Cunha Paulista / MA"
+    },
+    {
+        "name": "Sr. Vitor Hugo da Rocha",
+        "state": "GO",
+        "CRM": "83542",
+        "CPF": "38029475683",
+        "RG": "6492751",
+        "birth_date": "1992-08-19",
+        "gender": "M",
+        "address": "Lago Helena da Rosa, 238\nCapit\u00e3o Eduardo\n67256309 Costela / SC"
+    },
+    {
+        "name": "Vit\u00f3ria Cavalcanti",
+        "state": "GO",
+        "CRM": "31576",
+        "CPF": "72389546056",
+        "RG": "3429710",
+        "birth_date": "1953-08-28",
+        "gender": "F",
+        "address": "Via de Rodrigues\nVila Sat\u00e9lite\n21440-443 Caldeira / RN"
+    },
+    {
+        "name": "Leonardo Pereira",
+        "state": "GO",
+        "CRM": "29635",
+        "CPF": "67892031502",
+        "RG": "3816547",
+        "birth_date": "1988-09-10",
+        "gender": "M",
+        "address": "Condom\u00ednio de Campos, 157\nSanto Andr\u00e9\n75238-083 Costa / AP"
+    },
+    {
+        "name": "Alana da Costa",
+        "state": "GO",
+        "CRM": "67850",
+        "CPF": "26395741080",
+        "RG": "6257493",
+        "birth_date": "1963-06-22",
+        "gender": "F",
+        "address": "Rua Stephany da Paz, 96\nVila Nova\n83482-437 da Mata Grande / MS"
+    },
+    {
+        "name": "Vitor Ara\u00fajo",
+        "state": "GO",
+        "CRM": "82719",
+        "CPF": "18526049305",
+        "RG": "4128675",
+        "birth_date": "1989-05-22",
+        "gender": "M",
+        "address": "Lagoa de Melo, 79\nZilah Sposito\n08681990 Campos / PI"
+    },
+    {
+        "name": "Dra. Marcela Cardoso",
+        "state": "GO",
+        "CRM": "76510",
+        "CPF": "39058461289",
+        "RG": "4310297",
+        "birth_date": "1969-02-14",
+        "gender": "F",
+        "address": "Rodovia de Moura, 869\nBarro Preto\n42500-239 Correia da Praia / PR"
+    },
+    {
+        "name": "Emanuel Correia",
+        "state": "GO",
+        "CRM": "03829",
+        "CPF": "58239167446",
+        "RG": "7063895",
+        "birth_date": "1973-03-28",
+        "gender": "M",
+        "address": "Trecho de Novaes, 53\nSantana Do Cafezal\n59206987 Teixeira / AC"
+    },
+    {
+        "name": "Bianca Ribeiro",
+        "state": "GO",
+        "CRM": "78250",
+        "CPF": "37291860431",
+        "RG": "1986274",
+        "birth_date": "1976-09-08",
+        "gender": "F",
+        "address": "N\u00facleo Cavalcanti, 21\nMaria Helena\n23275095 Dias Alegre / AL"
+    },
+    {
+        "name": "Luiz Henrique Viana",
+        "state": "GO",
+        "CRM": "85246",
+        "CPF": "49628013505",
+        "RG": "2610453",
+        "birth_date": "1948-02-15",
+        "gender": "M",
+        "address": "Recanto de Peixoto, 776\nFazendinha\n42727-834 Oliveira de Minas / BA"
+    },
+    {
+        "name": "Helena da Costa",
+        "state": "GO",
+        "CRM": "04679",
+        "CPF": "76985130259",
+        "RG": "7594308",
+        "birth_date": "1982-09-27",
+        "gender": "F",
+        "address": "N\u00facleo Gustavo da Mota, 881\nPilar\n04038-674 Azevedo / DF"
+    }
+]

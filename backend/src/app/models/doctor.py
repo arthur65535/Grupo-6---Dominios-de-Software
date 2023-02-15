@@ -10,6 +10,8 @@ class DoctorBase(SQLModel):
     name: str
     state: str
     CRM: str
+    CPF: str | None = Field(unique=True, nullable=False)
+    RG: str | None = Field(nullable=False)
     birth_date: datetime.date
     gender: str
     address: str

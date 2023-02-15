@@ -6,8 +6,12 @@ from sqlmodel import Field, Relationship, SQLModel
 
 from app.models.doctor import Doctor
 from app.models.hospital import Hospital
-from app.models.patient import Patient
 from app.models.medical_bed_type import MedicalBedType
+from app.models.patient import Patient
+from app.models.patient_clinical_condition import (
+    PatientClinicalCondition,
+    PatientClinicalConditionReadWithUpdates
+)
 
 
 class TransferenceRequestBase(SQLModel):
@@ -51,9 +55,6 @@ class TransferenceRequest(TransferenceRequestBase, table=True):
     medical_bed_type: MedicalBedType | None = Relationship(
         back_populates='transference_requests')
 
-    # patient_transference: 'PatientTransference' | None = Relationship(
-    #     back_populates='transference_request')
-
     patient_transference: Optional['PatientTransference'] = Relationship(
         back_populates='transference_request',
         sa_relationship=RelationshipProperty(
@@ -61,6 +62,10 @@ class TransferenceRequest(TransferenceRequestBase, table=True):
             primaryjoin='foreign(transference_request.id) == patient_transference.transference_request_id',
             uselist=False
         )
+    )
+
+    patient_clinical_condition: PatientClinicalCondition | None = Relationship(
+        back_populates='transference_request'
     )
 
 
@@ -78,3 +83,4 @@ class TransferenceRequestReadDenormalized(TransferenceRequestRead):
     requesting_hospital: Hospital
     medical_bed_type: MedicalBedType
     patient_transference: Optional['PatientTransference']
+    patient_clinical_condition: PatientClinicalConditionReadWithUpdates

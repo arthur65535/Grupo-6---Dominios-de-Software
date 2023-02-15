@@ -12,6 +12,7 @@ from app.api.routers import (
     medical_bed_types,
     medical_beds,
     medical_specialties,
+    patient_clinical_conditions,
     patients,
     patient_transferences,
     transference_requests
@@ -54,6 +55,10 @@ app.include_router(hospitals.router, prefix='/hospitals')
 app.include_router(medical_beds.router, prefix='/medical-beds')
 app.include_router(medical_bed_types.router, prefix='/medical-bed-types')
 app.include_router(medical_specialties.router, prefix='/medical-specialties')
+app.include_router(
+    patient_clinical_conditions.router,
+    prefix='/patient-clinical-conditions'
+)
 app.include_router(patients.router, prefix='/patients')
 app.include_router(
     patient_transferences.router, prefix='/patient-transferences'

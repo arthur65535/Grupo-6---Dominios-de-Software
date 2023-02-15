@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Hospital Estadual Geral de Goi\u00e2nia Dr. Alberto Rassi",
+        "initials": "HGG",
+        "address": "Avenida Anhanguera n\u00ba 6.479, Setor Oeste, Goi\u00e2nia - GO, CEP: 74.110-010",
+        "CNES": "2338734",
+        "phone_number_1": "(62) 3209-9800",
+        "phone_number_2": null,
+        "is_active": true,
+        "CNPJ": "02.529.964/0004-42",
+        "email_address": "contato@idtech.org.br",
+        "management": "HospitalManagement.ESTADUAL",
+        "management_type": "HospitalManagementType.ADMINISTRACAL_PUBLICA"
+    },
+    {
+        "name": "Hospital Estadual de Urg\u00eancias Governador Ot\u00e1vio Lage de Siqueira",
+        "initials": "HUGOL",
+        "address": "Av. Anhanguera, 14527 \u2013 St. Santos Dumont, Goi\u00e2nia \u2013 GO, 74463-350",
+        "CNES": "7743068",
+        "phone_number_1": "(62) 3270-6300",
+        "phone_number_2": null,
+        "is_active": true,
+        "CNPJ": "05.029.600/0003-68",
+        "email_address": "hugol@hugol.org.br",
+        "management": "HospitalManagement.ESTADUAL",
+        "management_type": "HospitalManagementType.ADMINISTRACAL_PUBLICA"
+    },
+    {
+        "name": "Hospital Estadual de Urg\u00eancias de Goi\u00e1s \u2013 Dr.Valdemiro Cruz",
+        "initials": "HUGO",
+        "address": "Avenida 31 de Mar\u00e7o, s/n \u2013 S\u00e3o Pedro Ludovico, Goi\u00e2nia \u2013 GO, 74820-300",
+        "CNES": "2338262",
+        "phone_number_1": "(62) 3201-4420",
+        "phone_number_2": null,
+        "is_active": true,
+        "CNPJ": "02.529.964/0008-23",
+        "email_address": "atendimento@hugo.org.br",
+        "management": "HospitalManagement.ESTADUAL",
+        "management_type": "HospitalManagementType.ADMINISTRACAL_PUBLICA"
+    },
+    {
+        "name": "Hospital Estadual da Crian\u00e7a e do Adolescente",
+        "initials": "Hecad",
+        "address": "Av. Bela Vista, 2.333 - Parque Acalanto. Goi\u00e2nia - Goi\u00e1s CEP: 74863-025",
+        "CNES": "0965324",
+        "phone_number_1": "(62) 3142-5757",
+        "phone_number_2": null,
+        "is_active": true,
+        "CNPJ": "05.029.600/0009-53",
+        "email_address": "hecad.nir@gmail.com",
+        "management": "HospitalManagement.ESTADUAL",
+        "management_type": "HospitalManagementType.ADMINISTRACAL_PUBLICA"
+    }
+]

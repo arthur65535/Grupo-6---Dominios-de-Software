@@ -19,6 +19,8 @@ class PatientBase(SQLModel):
     is_deceased: bool
     is_deprived_of_liberty: bool | None
     has_disability: bool | None
+    weight_in_kg: int | None
+    height_in_cm: int | None
 
 
 

@@ -9,6 +9,8 @@ readme = "README.md"
 
 [tool.poetry.scripts]
 start = "app.api.main:start"
+generate_predefined_data = "app.db.data.generators.generate_predefined_data:generate"
+insert_predefined_data = "app.db.database:insert_predefined_data"
 
 [tool.poetry.dependencies]
 python = "^3.10"
@@ -20,6 +22,7 @@ psycopg2-binary = "^2.9.5"
 autopep8 = "^2.0.1"
 isort = "^5.12.0"
 alembic = "^1.9.2"
+faker = "^17.0.0"
 
 
 [tool.poetry.group.dev.dependencies]

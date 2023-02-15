@@ -9,14 +9,20 @@ from app.models.transference_request import (
     TransferenceRequestRead,
     TransferenceRequestReadDenormalized
 )
+from app.models.patient_clinical_condition import (
+    PatientClinicalConditionReadWithUpdates
+)
 from app.models.patient_transference import (
     PatientTransference,
     PatientTransferenceCreate,
     PatientTransferenceRead,
     PatientTransferenceReadDenormalized
 )
-from app.repository import patient_transference_repository
-from app.repository import transference_request_repository
+from app.repository import (
+    patient_clinical_condition_repository,
+    patient_transference_repository,
+    transference_request_repository
+)
 
 
 TransferenceRequest.update_forward_refs(
@@ -57,6 +63,19 @@ def get_transference_request_by_id(
 
     return transference_request_repository.get_transference_request_by_id(
         id=id, db=db)
+
+
+@router.get('/{transference_request_id}/patient-clinical-condition')
+def get_patient_clinical_condition_of_transference_request(
+    transference_request_id: int,
+    db: Session = Depends(get_session)
+) -> PatientClinicalConditionReadWithUpdates:
+
+    return patient_clinical_condition_repository \
+        .get_clinical_condition_by_transference_request_id(
+            transference_request_id=transference_request_id,
+            db=db
+        )
 
 
 @router.post('/{transference_request_id}/patient-transferences/')

@@ -44,6 +44,10 @@ def get_transference_request_by_id(
     return transference_request
 
 
+def exists_transference_request_with_id(id: int, db: Session) -> bool:
+    return db.get(TransferenceRequest, id)
+
+
 def delete_transference_request_by_id(id: int, db: Session):
     transference_request = db.get(TransferenceRequest, id)
 

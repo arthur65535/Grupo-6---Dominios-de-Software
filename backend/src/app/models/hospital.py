@@ -27,7 +27,7 @@ class HospitalBase(SQLModel):
     address: str
     CNES: str = Field(unique=True)
     phone_number_1: str
-    phone_number_2: str
+    phone_number_2: str | None = Field(nullable=True)
     is_active: bool
     CNPJ: str = Field(unique=True)
     email_address: str
