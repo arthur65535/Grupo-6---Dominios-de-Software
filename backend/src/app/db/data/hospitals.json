@@ -50,5 +50,18 @@
         "email_address": "hecad.nir@gmail.com",
         "management": "HospitalManagement.ESTADUAL",
         "management_type": "HospitalManagementType.ADMINISTRACAL_PUBLICA"
+    },
+    {
+        "name": "HOSPITAL DAS CLINICAS",
+        "initials": "HC-UFG",
+        "address": "Rua 235 QD. 68 Lote \u00c1rea, N\u00ba 285, s/n\u00ba - Setor Leste Universit\u00e1rio, Goi\u00e2nia - GO, 74605-050",
+        "CNES": "2338424",
+        "phone_number_1": "(62) 3269-8200",
+        "phone_number_2": null,
+        "is_active": true,
+        "CNPJ": "01.567.601/0002-24",
+        "email_address": "suprin.hcgo@ebserh.gov.br",
+        "management": "HospitalManagement.MUNICIPAL",
+        "management_type": "HospitalManagementType.ADMINISTRACAL_PUBLICA"
     }
 ]

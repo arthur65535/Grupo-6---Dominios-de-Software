@@ -1,0 +1,207 @@
+[
+    {
+        "id": 1,
+        "name": "BUCO MAXILO FACIAL",
+        "specialty": "CIRURGICO"
+    },
+    {
+        "id": 2,
+        "name": "CARDIOLOGIA",
+        "specialty": "CIRURGICO"
+    },
+    {
+        "id": 3,
+        "name": "CIRURGIA GERAL",
+        "specialty": "CIRURGICO"
+    },
+    {
+        "id": 4,
+        "name": "ENDOCRINOLOGIA",
+        "specialty": "CIRURGICO"
+    },
+    {
+        "id": 5,
+        "name": "GASTROENTEROLOGIA",
+        "specialty": "CIRURGICO"
+    },
+    {
+        "id": 6,
+        "name": "GINECOLOGIA",
+        "specialty": "CIRURGICO"
+    },
+    {
+        "id": 7,
+        "name": "CIRURGICO/DIAGNOSTICO/TERAPEUTICO",
+        "specialty": "HOSPITAL DIA"
+    },
+    {
+        "id": 8,
+        "name": "NEFROLOGIAUROLOGIA",
+        "specialty": "CIRURGICO"
+    },
+    {
+        "id": 9,
+        "name": "NEUROCIRURGIA",
+        "specialty": "CIRURGICO"
+    },
+    {
+        "id": 10,
+        "name": "OBSTETRICIA CIRURGICA",
+        "specialty": "OBSTETRICO"
+    },
+    {
+        "id": 11,
+        "name": "OFTALMOLOGIA",
+        "specialty": "CIRURGICO"
+    },
+    {
+        "id": 12,
+        "name": "ONCOLOGIA",
+        "specialty": "CIRURGICO"
+    },
+    {
+        "id": 13,
+        "name": "ORTOPEDIATRAUMATOLOGIA",
+        "specialty": "CIRURGICO"
+    },
+    {
+        "id": 14,
+        "name": "OTORRINOLARINGOLOGIA",
+        "specialty": "CIRURGICO"
+    },
+    {
+        "id": 15,
+        "name": "PLASTICA",
+        "specialty": "CIRURGICO"
+    },
+    {
+        "id": 16,
+        "name": "TORACICA",
+        "specialty": "CIRURGICO"
+    },
+    {
+        "id": 16,
+        "name": "TORACICA",
+        "specialty": "CIRURGICO"
+    },
+    {
+        "id": 16,
+        "name": "TORACICA",
+        "specialty": "CIRURGICO"
+    },
+    {
+        "id": 32,
+        "name": "CARDIOLOGIA",
+        "specialty": "CLINICO"
+    },
+    {
+        "id": 33,
+        "name": "CLINICA GERAL",
+        "specialty": "CLINICO"
+    },
+    {
+        "id": 34,
+        "name": "CRONICOS",
+        "specialty": "OUTRAS ESPECIALIDADES"
+    },
+    {
+        "id": 35,
+        "name": "DERMATOLOGIA",
+        "specialty": "CLINICO"
+    },
+    {
+        "id": 36,
+        "name": "GERIATRIA",
+        "specialty": "CLINICO"
+    },
+    {
+        "id": 37,
+        "name": "HANSENOLOGIA",
+        "specialty": "CLINICO"
+    },
+    {
+        "id": 38,
+        "name": "HEMATOLOGIA",
+        "specialty": "CLINICO"
+    },
+    {
+        "id": 40,
+        "name": "NEFROUROLOGIA",
+        "specialty": "CLINICO"
+    },
+    {
+        "id": 41,
+        "name": "NEONATOLOGIA",
+        "specialty": "CLINICO"
+    },
+    {
+        "id": 42,
+        "name": "NEUROLOGIA",
+        "specialty": "CLINICO"
+    },
+    {
+        "id": 43,
+        "name": "OBSTETRICIA CLINICA",
+        "specialty": "OBSTETRICO"
+    },
+    {
+        "id": 44,
+        "name": "ONCOLOGIA",
+        "specialty": "CLINICO"
+    },
+    {
+        "id": 45,
+        "name": "PEDIATRIA CLINICA",
+        "specialty": "PEDIATRICO"
+    },
+    {
+        "id": 46,
+        "name": "PNEUMOLOGIA",
+        "specialty": "CLINICO"
+    },
+    {
+        "id": 66,
+        "name": "UNIDADE ISOLAMENTO",
+        "specialty": "COMPLEMENTAR"
+    },
+    {
+        "id": 67,
+        "name": "TRANSPLANTE",
+        "specialty": "CIRURGICO"
+    },
+    {
+        "id": 68,
+        "name": "PEDIATRIA CIRURGICA",
+        "specialty": "PEDIATRICO"
+    },
+    {
+        "id": 75,
+        "name": "UTI ADULTO - TIPO II",
+        "specialty": "COMPLEMENTAR"
+    },
+    {
+        "id": 78,
+        "name": "UTI PEDIATRICA - TIPO II",
+        "specialty": "COMPLEMENTAR"
+    },
+    {
+        "id": 81,
+        "name": "UTI NEONATAL - TIPO II",
+        "specialty": "COMPLEMENTAR"
+    },
+    {
+        "id": 83,
+        "name": "UTI DE QUEIMADOS",
+        "specialty": "COMPLEMENTAR"
+    },
+    {
+        "id": 90,
+        "name": "QUEIMADO ADULTO",
+        "specialty": "CIRURGICO"
+    },
+    {
+        "id": 91,
+        "name": "QUEIMADO PEDIATRICO",
+        "specialty": "CIRURGICO"
+    }
+]

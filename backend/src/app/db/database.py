@@ -12,7 +12,11 @@ from app.models.medical_specialty import *
 from app.models.patient import *
 from app.models.transference_request import *
 
-from app.repository import doctor_repository, hospital_repository
+from app.repository import (
+    doctor_repository,
+    hospital_repository,
+    medical_bed_type_repository
+)
 
 from sqlalchemy.exc import IntegrityError
 from psycopg2.errors import UniqueViolation
@@ -46,6 +50,7 @@ def insert_predefined_data():
         insert_patients(PREDEFINED_DATA_FILEPATH, session)
         insert_doctors(PREDEFINED_DATA_FILEPATH, session)
         link_doctors_to_hospital(max_number_of_doctors_by_hospital=5, db=session)
+        insert_medical_bed_types(PREDEFINED_DATA_FILEPATH, session)
 
 
 def insert_medical_specialties(predefined_data_filepath: str, db: Session):
@@ -197,3 +202,34 @@ def link_doctors_to_hospital(max_number_of_doctors_by_hospital: int, db: Session
 
 
     print("\nDoctors linked to hospitals.\n")
+
+
+def insert_medical_bed_types(predefined_data_filepath: str, db: Session):
+    with open(
+        f"{predefined_data_filepath}/medical_bed_types.json",
+        mode="r"
+    ) as f:
+        print("Adding medical bed types.\n")
+        medical_bed_types = json.load(f)
+
+        for medical_bed_type in medical_bed_types:
+            try:
+                medical_bed_type_db = MedicalBedType(
+                    **medical_bed_type
+                )
+                db.add(medical_bed_type_db)
+                db.commit()
+                db.refresh(medical_bed_type_db)
+                print(f"Medical bed type with code {medical_bed_type_db.id}"
+                      f" named '{medical_bed_type_db.name}' of specialty"
+                      f" '{medical_bed_type_db.specialty}' added.")
+            except IntegrityError as error:
+                if 'already exists' in str(error):
+                    print(f"Medical bed type with code"
+                          f" {medical_bed_type['id']} already added"
+                          f" previously.")
+                    db.rollback()
+                else:
+                    raise error
+
+        print("\nMedical bed type added.\n")

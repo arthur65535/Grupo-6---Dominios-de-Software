@@ -5,13 +5,17 @@ from sqlmodel import SQLModel, Field, Relationship
 
 
 class MedicalBedTypeBase(SQLModel):
-    name: str = Field(unique=True, index=True)
+    id: int
+    name: str
+    specialty: str
 
 
 class MedicalBedType(MedicalBedTypeBase, table=True):
     __tablename__ = "medical_bed_type"
 
-    id: int | None = Field(default=None, primary_key=True)
+    id: int | None = Field(
+        default=None, primary_key=True, sa_column_kwargs={"autoincrement": False}
+    )
 
     medical_beds: list["MedicalBed"] = Relationship(back_populates="medical_bed_type")
 
@@ -25,4 +29,4 @@ class MedicalBedTypeCreate(MedicalBedTypeBase):
 
 
 class MedicalBedTypeRead(MedicalBedTypeBase):
-    id: int
+    pass

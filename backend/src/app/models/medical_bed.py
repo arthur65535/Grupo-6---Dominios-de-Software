@@ -13,7 +13,7 @@ class MedicalBedStatus(enum.Enum):
 
 
 class MedicalBedBase(SQLModel):
-    name: str
+    number: int
     status: MedicalBedStatus = Field(default=MedicalBedStatus.AVAILABLE)
 
     medical_bed_type_id: int | None = Field(

@@ -66,6 +66,19 @@ def get_hospitals() -> list[HospitalCreate]:
         management_type=HospitalManagementType.ADMINISTRACAL_PUBLICA
     ))
 
+    hospitals.append(HospitalCreate(
+        name="HOSPITAL DAS CLINICAS",
+        initials="HC-UFG",
+        address="Rua 235 QD. 68 Lote Área, Nº 285, s/nº - Setor Leste Universitário, Goiânia - GO, 74605-050",
+        CNES="2338424",
+        phone_number_1="(62) 3269-8200",
+        is_active=True,
+        CNPJ="01.567.601/0002-24",
+        email_address="suprin.hcgo@ebserh.gov.br",
+        management=HospitalManagement.MUNICIPAL,
+        management_type=HospitalManagementType.ADMINISTRACAL_PUBLICA
+    ))
+
 
     return hospitals
 
