@@ -1,9 +1,10 @@
 import uvicorn
-from fastapi import FastAPI
+from fastapi import Depends, FastAPI
 from fastapi.openapi.docs import get_swagger_ui_html
 from fastapi.responses import FileResponse
 
-from app.db.database import insert_predefined_data
+from app.db.data.generators import generate_predefined_data
+from app.db.data import insert_predefined_data, delete_predefined_data
 
 from app.api.routers import (
     doctors,
@@ -32,7 +33,9 @@ FAVICON_PATH = "favicon.ico"
 
 @app.on_event('startup')
 def on_startup():
-    insert_predefined_data()
+    delete_predefined_data.delete()
+    generate_predefined_data.generate()
+    insert_predefined_data.insert()
 
 
 @app.get("/favicon.ico", include_in_schema=False)

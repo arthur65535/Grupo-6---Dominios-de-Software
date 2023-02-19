@@ -67,6 +67,18 @@ def create_medical_bed_for_hospital(
     )
 
 
+@router.get("/{hospital_id}/medical-beds", status_code=status.HTTP_201_CREATED)
+def get_medical_beds_of_hospital(
+    hospital_id: int,
+    db: Session = Depends(get_session)
+) -> list[MedicalBedReadWithMedicalBedType]:
+
+    return medical_bed_repository.get_medical_beds_of_hospital(
+        hospital_id=hospital_id,
+        db=db
+    )
+
+
 @router.put("/{hospital_id}/doctors/{doctor_id}", status_code=status.HTTP_204_NO_CONTENT)
 def link_doctor_to_hospital(
         hospital_id: int,

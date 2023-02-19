@@ -1,7 +1,7 @@
 import datetime
 import enum
 
-from sqlmodel import SQLModel, Field, Relationship
+from sqlmodel import SQLModel, Field, Relationship, UniqueConstraint
 
 from app.models.hospital import Hospital
 from app.models.medical_bed_type import MedicalBedType
@@ -13,6 +13,10 @@ class MedicalBedStatus(enum.Enum):
 
 
 class MedicalBedBase(SQLModel):
+    __table_args__ = (
+        UniqueConstraint("number", "medical_bed_type_id", "hospital_id"),
+    )
+
     number: int
     status: MedicalBedStatus = Field(default=MedicalBedStatus.AVAILABLE)
 

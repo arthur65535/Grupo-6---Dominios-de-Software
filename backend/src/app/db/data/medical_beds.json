@@ -1,0 +1,6902 @@
+[
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2164
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2164
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2164
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2164
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2164
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2164
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2164
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2164
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2164
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2164
+    },
+    {
+        "number": 11,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2164
+    },
+    {
+        "number": 12,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2164
+    },
+    {
+        "number": 13,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2164
+    },
+    {
+        "number": 14,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2164
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 15,
+        "hospital_id": 2164
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 15,
+        "hospital_id": 2164
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 15,
+        "hospital_id": 2164
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 15,
+        "hospital_id": 2164
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 15,
+        "hospital_id": 2164
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 14,
+        "hospital_id": 2164
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 14,
+        "hospital_id": 2164
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 14,
+        "hospital_id": 2164
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 14,
+        "hospital_id": 2164
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2164
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2164
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2164
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2164
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2164
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2164
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2164
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2164
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2164
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2164
+    },
+    {
+        "number": 11,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2164
+    },
+    {
+        "number": 12,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2164
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2164
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2164
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2164
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2164
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2164
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2164
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2164
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2164
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2164
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 16,
+        "hospital_id": 2164
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 16,
+        "hospital_id": 2164
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 16,
+        "hospital_id": 2164
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2164
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2164
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2164
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2164
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2164
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2164
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2164
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2164
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2164
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2164
+    },
+    {
+        "number": 11,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2164
+    },
+    {
+        "number": 12,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2164
+    },
+    {
+        "number": 13,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2164
+    },
+    {
+        "number": 14,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2164
+    },
+    {
+        "number": 15,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2164
+    },
+    {
+        "number": 16,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2164
+    },
+    {
+        "number": 17,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2164
+    },
+    {
+        "number": 18,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2164
+    },
+    {
+        "number": 19,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2164
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 11,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 12,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 13,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 14,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 15,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 16,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 17,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 18,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 19,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 20,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 21,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 22,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 23,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 24,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 25,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 26,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 27,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 28,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 29,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 30,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 31,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 32,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 33,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 34,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 35,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 36,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 37,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 38,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 39,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 40,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 41,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 42,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 43,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 44,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 45,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 46,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 47,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 48,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 49,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 50,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 51,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 52,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 53,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 54,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 55,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 56,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 57,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 58,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 59,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 60,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 61,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 62,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 63,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 64,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 65,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 66,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2164
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 1,
+        "hospital_id": 2164
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 1,
+        "hospital_id": 2164
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 1,
+        "hospital_id": 2164
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2164
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2164
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2164
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2164
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2164
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2164
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2164
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2164
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2164
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2164
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2164
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2164
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2164
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2164
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2164
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2164
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2164
+    },
+    {
+        "number": 11,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2164
+    },
+    {
+        "number": 12,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2164
+    },
+    {
+        "number": 13,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2164
+    },
+    {
+        "number": 14,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2164
+    },
+    {
+        "number": 15,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2164
+    },
+    {
+        "number": 16,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2164
+    },
+    {
+        "number": 17,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2164
+    },
+    {
+        "number": 18,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2164
+    },
+    {
+        "number": 19,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2164
+    },
+    {
+        "number": 20,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2164
+    },
+    {
+        "number": 21,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2164
+    },
+    {
+        "number": 22,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2164
+    },
+    {
+        "number": 23,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2164
+    },
+    {
+        "number": 24,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2164
+    },
+    {
+        "number": 25,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2164
+    },
+    {
+        "number": 26,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2164
+    },
+    {
+        "number": 27,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2164
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2164
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2164
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2164
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2164
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2164
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2164
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2164
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2164
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2164
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2164
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2164
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2164
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2164
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2164
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2164
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 40,
+        "hospital_id": 2164
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 40,
+        "hospital_id": 2164
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 40,
+        "hospital_id": 2164
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 40,
+        "hospital_id": 2164
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 40,
+        "hospital_id": 2164
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 40,
+        "hospital_id": 2164
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2164
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2164
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2164
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2164
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2164
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2164
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2164
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2164
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2164
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2164
+    },
+    {
+        "number": 11,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2164
+    },
+    {
+        "number": 12,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2164
+    },
+    {
+        "number": 13,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2164
+    },
+    {
+        "number": 14,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2164
+    },
+    {
+        "number": 15,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2164
+    },
+    {
+        "number": 16,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2164
+    },
+    {
+        "number": 17,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2164
+    },
+    {
+        "number": 18,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2164
+    },
+    {
+        "number": 19,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2164
+    },
+    {
+        "number": 20,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2164
+    },
+    {
+        "number": 21,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2164
+    },
+    {
+        "number": 22,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2164
+    },
+    {
+        "number": 23,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2164
+    },
+    {
+        "number": 24,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2164
+    },
+    {
+        "number": 25,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2164
+    },
+    {
+        "number": 26,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2164
+    },
+    {
+        "number": 27,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2164
+    },
+    {
+        "number": 28,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2164
+    },
+    {
+        "number": 29,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2164
+    },
+    {
+        "number": 30,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2164
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2164
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2164
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2164
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2164
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2164
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2164
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2164
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2164
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2164
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2164
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2165
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2165
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2165
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2165
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2165
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2165
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2165
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2165
+    },
+    {
+        "number": 11,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2165
+    },
+    {
+        "number": 12,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2165
+    },
+    {
+        "number": 13,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2165
+    },
+    {
+        "number": 14,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 15,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 15,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 15,
+        "hospital_id": 2165
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 15,
+        "hospital_id": 2165
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 15,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 14,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 14,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 14,
+        "hospital_id": 2165
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 14,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2165
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2165
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2165
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2165
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2165
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2165
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2165
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2165
+    },
+    {
+        "number": 11,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2165
+    },
+    {
+        "number": 12,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2165
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2165
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2165
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2165
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2165
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2165
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 16,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 16,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 16,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 11,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 12,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 13,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 14,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 15,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 16,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 17,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 18,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 19,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 11,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 12,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 13,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 14,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 15,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 16,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 17,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 18,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 19,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 20,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 21,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 22,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 23,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 24,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 25,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 26,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 27,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 28,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 29,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 30,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 31,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 32,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 33,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 34,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 35,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 36,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 37,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 38,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 39,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 40,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 41,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 42,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 43,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 44,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 45,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 46,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 47,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 48,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 49,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 50,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 51,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 52,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 53,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 54,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 55,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 56,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 57,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 58,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 59,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 60,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 61,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 62,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 63,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 64,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 65,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 66,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 1,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 1,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 1,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2165
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2165
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2165
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2165
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 11,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 12,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 13,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 14,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 15,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 16,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 17,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 18,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 19,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 20,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 21,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 22,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 23,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 24,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 25,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 26,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 27,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2165
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2165
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2165
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2165
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2165
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2165
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2165
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2165
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2165
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 40,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 40,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 40,
+        "hospital_id": 2165
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 40,
+        "hospital_id": 2165
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 40,
+        "hospital_id": 2165
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 40,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 11,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 12,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 13,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 14,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 15,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 16,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 17,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 18,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 19,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 20,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 21,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 22,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 23,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 24,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 25,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 26,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 27,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 28,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 29,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 30,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2165
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2165
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2165
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2165
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2165
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2165
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2165
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2165
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2165
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2165
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2165
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2165
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2165
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2165
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2165
+    },
+    {
+        "number": 11,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2165
+    },
+    {
+        "number": 12,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2165
+    },
+    {
+        "number": 13,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2165
+    },
+    {
+        "number": 14,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 15,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 15,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 15,
+        "hospital_id": 2165
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 15,
+        "hospital_id": 2165
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 15,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 14,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 14,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 14,
+        "hospital_id": 2165
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 14,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2165
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2165
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2165
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2165
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2165
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2165
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2165
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2165
+    },
+    {
+        "number": 11,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2165
+    },
+    {
+        "number": 12,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2165
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2165
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2165
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2165
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2165
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2165
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 16,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 16,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 16,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 11,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 12,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 13,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 14,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 15,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 16,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 17,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 18,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 19,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 11,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 12,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 13,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 14,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 15,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 16,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 17,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 18,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 19,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 20,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 21,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 22,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 23,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 24,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 25,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 26,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 27,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 28,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 29,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 30,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 31,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 32,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 33,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 34,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 35,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 36,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 37,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 38,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 39,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 40,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 41,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 42,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 43,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 44,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 45,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 46,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 47,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 48,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 49,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 50,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 51,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 52,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 53,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 54,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 55,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 56,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 57,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 58,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 59,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 60,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 61,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 62,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 63,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 64,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 65,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 66,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 1,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 1,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 1,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2165
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2165
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2165
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2165
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 11,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 12,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 13,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 14,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 15,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 16,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 17,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 18,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 19,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 20,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 21,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 22,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 23,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 24,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 25,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 26,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 27,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2165
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2165
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2165
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2165
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2165
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2165
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2165
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2165
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2165
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 40,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 40,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 40,
+        "hospital_id": 2165
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 40,
+        "hospital_id": 2165
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 40,
+        "hospital_id": 2165
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 40,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 11,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 12,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 13,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 14,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 15,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 16,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 17,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 18,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 19,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 20,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 21,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 22,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 23,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 24,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 25,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 26,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 27,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 28,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 29,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 30,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2165
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2165
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2165
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2165
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2165
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2165
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2165
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2165
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2165
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2165
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2167
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2167
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2167
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2167
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2167
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2167
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2167
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2167
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2167
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2167
+    },
+    {
+        "number": 11,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2167
+    },
+    {
+        "number": 12,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2167
+    },
+    {
+        "number": 13,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2167
+    },
+    {
+        "number": 14,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2167
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 15,
+        "hospital_id": 2167
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 15,
+        "hospital_id": 2167
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 15,
+        "hospital_id": 2167
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 15,
+        "hospital_id": 2167
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 15,
+        "hospital_id": 2167
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 14,
+        "hospital_id": 2167
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 14,
+        "hospital_id": 2167
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 14,
+        "hospital_id": 2167
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 14,
+        "hospital_id": 2167
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2167
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2167
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2167
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2167
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2167
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2167
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2167
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2167
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2167
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2167
+    },
+    {
+        "number": 11,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2167
+    },
+    {
+        "number": 12,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2167
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2167
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2167
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2167
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2167
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2167
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2167
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2167
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2167
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2167
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 16,
+        "hospital_id": 2167
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 16,
+        "hospital_id": 2167
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 16,
+        "hospital_id": 2167
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2167
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2167
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2167
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2167
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2167
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2167
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2167
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2167
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2167
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2167
+    },
+    {
+        "number": 11,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2167
+    },
+    {
+        "number": 12,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2167
+    },
+    {
+        "number": 13,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2167
+    },
+    {
+        "number": 14,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2167
+    },
+    {
+        "number": 15,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2167
+    },
+    {
+        "number": 16,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2167
+    },
+    {
+        "number": 17,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2167
+    },
+    {
+        "number": 18,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2167
+    },
+    {
+        "number": 19,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2167
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 11,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 12,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 13,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 14,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 15,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 16,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 17,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 18,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 19,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 20,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 21,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 22,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 23,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 24,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 25,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 26,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 27,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 28,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 29,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 30,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 31,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 32,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 33,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 34,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 35,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 36,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 37,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 38,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 39,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 40,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 41,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 42,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 43,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 44,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 45,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 46,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 47,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 48,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 49,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 50,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 51,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 52,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 53,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 54,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 55,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 56,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 57,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 58,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 59,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 60,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 61,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 62,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 63,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 64,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 65,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 66,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2167
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 1,
+        "hospital_id": 2167
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 1,
+        "hospital_id": 2167
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 1,
+        "hospital_id": 2167
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2167
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2167
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2167
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2167
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2167
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2167
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2167
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2167
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2167
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2167
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2167
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2167
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2167
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2167
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2167
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2167
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2167
+    },
+    {
+        "number": 11,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2167
+    },
+    {
+        "number": 12,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2167
+    },
+    {
+        "number": 13,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2167
+    },
+    {
+        "number": 14,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2167
+    },
+    {
+        "number": 15,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2167
+    },
+    {
+        "number": 16,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2167
+    },
+    {
+        "number": 17,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2167
+    },
+    {
+        "number": 18,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2167
+    },
+    {
+        "number": 19,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2167
+    },
+    {
+        "number": 20,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2167
+    },
+    {
+        "number": 21,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2167
+    },
+    {
+        "number": 22,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2167
+    },
+    {
+        "number": 23,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2167
+    },
+    {
+        "number": 24,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2167
+    },
+    {
+        "number": 25,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2167
+    },
+    {
+        "number": 26,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2167
+    },
+    {
+        "number": 27,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2167
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2167
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2167
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2167
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2167
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2167
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2167
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2167
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2167
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2167
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2167
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2167
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2167
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2167
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2167
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2167
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 40,
+        "hospital_id": 2167
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 40,
+        "hospital_id": 2167
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 40,
+        "hospital_id": 2167
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 40,
+        "hospital_id": 2167
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 40,
+        "hospital_id": 2167
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 40,
+        "hospital_id": 2167
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2167
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2167
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2167
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2167
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2167
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2167
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2167
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2167
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2167
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2167
+    },
+    {
+        "number": 11,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2167
+    },
+    {
+        "number": 12,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2167
+    },
+    {
+        "number": 13,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2167
+    },
+    {
+        "number": 14,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2167
+    },
+    {
+        "number": 15,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2167
+    },
+    {
+        "number": 16,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2167
+    },
+    {
+        "number": 17,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2167
+    },
+    {
+        "number": 18,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2167
+    },
+    {
+        "number": 19,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2167
+    },
+    {
+        "number": 20,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2167
+    },
+    {
+        "number": 21,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2167
+    },
+    {
+        "number": 22,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2167
+    },
+    {
+        "number": 23,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2167
+    },
+    {
+        "number": 24,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2167
+    },
+    {
+        "number": 25,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2167
+    },
+    {
+        "number": 26,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2167
+    },
+    {
+        "number": 27,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2167
+    },
+    {
+        "number": 28,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2167
+    },
+    {
+        "number": 29,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2167
+    },
+    {
+        "number": 30,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2167
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2167
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2167
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2167
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2167
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2167
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2167
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2167
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2167
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2167
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2167
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2168
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2168
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2168
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2168
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2168
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2168
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2168
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2168
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2168
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2168
+    },
+    {
+        "number": 11,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2168
+    },
+    {
+        "number": 12,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2168
+    },
+    {
+        "number": 13,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2168
+    },
+    {
+        "number": 14,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 67,
+        "hospital_id": 2168
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 15,
+        "hospital_id": 2168
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 15,
+        "hospital_id": 2168
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 15,
+        "hospital_id": 2168
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 15,
+        "hospital_id": 2168
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 15,
+        "hospital_id": 2168
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 14,
+        "hospital_id": 2168
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 14,
+        "hospital_id": 2168
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 14,
+        "hospital_id": 2168
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 14,
+        "hospital_id": 2168
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2168
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2168
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2168
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2168
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2168
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2168
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2168
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2168
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2168
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2168
+    },
+    {
+        "number": 11,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2168
+    },
+    {
+        "number": 12,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 13,
+        "hospital_id": 2168
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2168
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2168
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2168
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2168
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2168
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2168
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2168
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2168
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 5,
+        "hospital_id": 2168
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 16,
+        "hospital_id": 2168
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 16,
+        "hospital_id": 2168
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 16,
+        "hospital_id": 2168
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2168
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2168
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2168
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2168
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2168
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2168
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2168
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2168
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2168
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2168
+    },
+    {
+        "number": 11,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2168
+    },
+    {
+        "number": 12,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2168
+    },
+    {
+        "number": 13,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2168
+    },
+    {
+        "number": 14,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2168
+    },
+    {
+        "number": 15,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2168
+    },
+    {
+        "number": 16,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2168
+    },
+    {
+        "number": 17,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2168
+    },
+    {
+        "number": 18,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2168
+    },
+    {
+        "number": 19,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 8,
+        "hospital_id": 2168
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 11,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 12,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 13,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 14,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 15,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 16,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 17,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 18,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 19,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 20,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 21,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 22,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 23,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 24,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 25,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 26,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 27,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 28,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 29,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 30,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 31,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 32,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 33,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 34,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 35,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 36,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 37,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 38,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 39,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 40,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 41,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 42,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 43,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 44,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 45,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 46,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 47,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 48,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 49,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 50,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 51,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 52,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 53,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 54,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 55,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 56,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 57,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 58,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 59,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 60,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 61,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 62,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 63,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 64,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 65,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 66,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 3,
+        "hospital_id": 2168
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 1,
+        "hospital_id": 2168
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 1,
+        "hospital_id": 2168
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 1,
+        "hospital_id": 2168
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2168
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2168
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2168
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2168
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2168
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2168
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 42,
+        "hospital_id": 2168
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2168
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2168
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2168
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2168
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2168
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2168
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2168
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2168
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2168
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2168
+    },
+    {
+        "number": 11,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2168
+    },
+    {
+        "number": 12,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2168
+    },
+    {
+        "number": 13,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2168
+    },
+    {
+        "number": 14,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2168
+    },
+    {
+        "number": 15,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2168
+    },
+    {
+        "number": 16,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2168
+    },
+    {
+        "number": 17,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2168
+    },
+    {
+        "number": 18,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2168
+    },
+    {
+        "number": 19,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2168
+    },
+    {
+        "number": 20,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2168
+    },
+    {
+        "number": 21,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2168
+    },
+    {
+        "number": 22,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2168
+    },
+    {
+        "number": 23,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2168
+    },
+    {
+        "number": 24,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2168
+    },
+    {
+        "number": 25,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2168
+    },
+    {
+        "number": 26,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2168
+    },
+    {
+        "number": 27,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 33,
+        "hospital_id": 2168
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2168
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2168
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2168
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2168
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2168
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2168
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 32,
+        "hospital_id": 2168
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2168
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2168
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2168
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2168
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2168
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2168
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2168
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 46,
+        "hospital_id": 2168
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 40,
+        "hospital_id": 2168
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 40,
+        "hospital_id": 2168
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 40,
+        "hospital_id": 2168
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 40,
+        "hospital_id": 2168
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 40,
+        "hospital_id": 2168
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 40,
+        "hospital_id": 2168
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2168
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2168
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2168
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2168
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2168
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2168
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2168
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2168
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2168
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2168
+    },
+    {
+        "number": 11,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2168
+    },
+    {
+        "number": 12,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2168
+    },
+    {
+        "number": 13,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2168
+    },
+    {
+        "number": 14,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2168
+    },
+    {
+        "number": 15,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2168
+    },
+    {
+        "number": 16,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2168
+    },
+    {
+        "number": 17,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2168
+    },
+    {
+        "number": 18,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2168
+    },
+    {
+        "number": 19,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2168
+    },
+    {
+        "number": 20,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2168
+    },
+    {
+        "number": 21,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2168
+    },
+    {
+        "number": 22,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2168
+    },
+    {
+        "number": 23,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2168
+    },
+    {
+        "number": 24,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2168
+    },
+    {
+        "number": 25,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2168
+    },
+    {
+        "number": 26,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2168
+    },
+    {
+        "number": 27,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2168
+    },
+    {
+        "number": 28,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2168
+    },
+    {
+        "number": 29,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2168
+    },
+    {
+        "number": 30,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 75,
+        "hospital_id": 2168
+    },
+    {
+        "number": 1,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2168
+    },
+    {
+        "number": 2,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2168
+    },
+    {
+        "number": 3,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2168
+    },
+    {
+        "number": 4,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2168
+    },
+    {
+        "number": 5,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2168
+    },
+    {
+        "number": 6,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2168
+    },
+    {
+        "number": 7,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2168
+    },
+    {
+        "number": 8,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2168
+    },
+    {
+        "number": 9,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2168
+    },
+    {
+        "number": 10,
+        "status": "MedicalBedStatus.AVAILABLE",
+        "medical_bed_type_id": 34,
+        "hospital_id": 2168
+    }
+]

@@ -5,7 +5,6 @@ from faker import Faker
 
 from app.models.doctor import DoctorCreate
 from app.models.hospital import *
-from app.repository import hospital_repository
 
 fake = Faker(locale="pt_BR")
 

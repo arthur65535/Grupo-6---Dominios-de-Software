@@ -19,7 +19,7 @@ def get_all_medical_beds(
 @router.get("/{id}")
 def get_medical_bed_by_id(
     id: int, db: Session = Depends(get_session)
-) -> MedicalBedRead:
+) -> MedicalBedReadWithMedicalBedType:
     return medical_bed_repository.get_medical_bed_by_id(id=id, db=db)
 
 

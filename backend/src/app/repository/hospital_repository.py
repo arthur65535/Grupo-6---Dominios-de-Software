@@ -1,5 +1,5 @@
 from fastapi import HTTPException, status
-from sqlmodel import select, Session
+from sqlmodel import col, select, Session
 
 from app.models.hospital import (
     Hospital,
@@ -33,6 +33,8 @@ def get_hospital_by_id(id: int, db: Session) -> HospitalReadWithMedicalBedsAndDo
         )
 
     return hospital
+
+
 
 
 def exist_hospital_with_id(pk_id: int, db: Session) -> bool:
