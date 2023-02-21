@@ -97,6 +97,11 @@ def get_medical_bed_types() -> list[MedicalBedTypeCreate]:
         specialty="CIRURGICO"
     ))
     medical_bed_types.append(MedicalBedTypeCreate(
+        id=31,
+        name="AIDS",
+        specialty="CLINICO"
+    ))
+    medical_bed_types.append(MedicalBedTypeCreate(
         id=32,
         name="CARDIOLOGIA",
         specialty="CLINICO"
@@ -199,6 +204,11 @@ def get_medical_bed_types() -> list[MedicalBedTypeCreate]:
     medical_bed_types.append(MedicalBedTypeCreate(
         id=83,
         name="UTI DE QUEIMADOS",
+        specialty="COMPLEMENTAR"
+    ))
+    medical_bed_types.append(MedicalBedTypeCreate(
+        id=85,
+        name="UTI CORONARIANA TIPO II - UCO TIPO II",
         specialty="COMPLEMENTAR"
     ))
     medical_bed_types.append(MedicalBedTypeCreate(

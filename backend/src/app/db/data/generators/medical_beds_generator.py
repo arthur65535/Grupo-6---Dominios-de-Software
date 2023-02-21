@@ -81,28 +81,28 @@ def get_medical_beds() -> list[MedicalBedCreate]:
         HUGOL_ID = get_hospital_id_by_CNES(HUGOL_CNES, db=db)
         HUGOL_MEDICAL_BEDS_DEFINITIONS_FILEPATH = (
             "./app/db/data/generators/"
-            "medical_beds_definitions/medical_beds_for_hgg.csv"
+            "medical_beds_definitions/medical_beds_for_hugol.csv"
         )
 
         HUGO_CNES = "7743068"
         HUGO_ID = get_hospital_id_by_CNES(HUGO_CNES, db=db)
         HUGO_MEDICAL_BEDS_DEFINITIONS_FILEPATH = (
             "./app/db/data/generators/"
-            "medical_beds_definitions/medical_beds_for_hgg.csv"
+            "medical_beds_definitions/medical_beds_for_hugo.csv"
         )
 
         HECAD_CNES = "0965324"
         HECAD_ID = get_hospital_id_by_CNES(HECAD_CNES, db=db)
         HECAD_MEDICAL_BEDS_DEFINITIONS_FILEPATH = (
             "./app/db/data/generators/"
-            "medical_beds_definitions/medical_beds_for_hgg.csv"
+            "medical_beds_definitions/medical_beds_for_hecad.csv"
         )
 
         HC_UFG_CNES = "2338424"
         HC_UFG_ID = get_hospital_id_by_CNES(HC_UFG_CNES, db=db)
         HC_UFG__MEDICAL_BEDS_DEFINITIONS_FILEPATH = (
             "./app/db/data/generators/"
-            "medical_beds_definitions/medical_beds_for_hgg.csv"
+            "medical_beds_definitions/medical_beds_for_hc_ufg.csv"
         )
 
     medical_beds.extend(get_medical_beds_for_hospital(

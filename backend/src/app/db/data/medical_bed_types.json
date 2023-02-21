@@ -90,6 +90,11 @@
         "specialty": "CIRURGICO"
     },
     {
+        "id": 31,
+        "name": "AIDS",
+        "specialty": "CLINICO"
+    },
+    {
         "id": 32,
         "name": "CARDIOLOGIA",
         "specialty": "CLINICO"
@@ -192,6 +197,11 @@
     {
         "id": 83,
         "name": "UTI DE QUEIMADOS",
+        "specialty": "COMPLEMENTAR"
+    },
+    {
+        "id": 85,
+        "name": "UTI CORONARIANA TIPO II - UCO TIPO II",
         "specialty": "COMPLEMENTAR"
     },
     {
