@@ -55,12 +55,13 @@ def create_update_of_patient_clinical_condition(
     patient_clinical_condition_id: int,
     update_of_patient_clinial_condition: UpdateOfPatientClinicalConditionCreate,
     db: Session = Depends(get_session)
-):
+) -> UpdateOfPatientClinicalCondition:
 
     return patient_clinical_condition_repository \
         .create_update_of_patient_clinical_condition(
+            patient_clinical_condition_id,
             update_of_patient_clinial_condition,
-            db
+            db=db
         )
 
 

@@ -10,6 +10,7 @@ from app.models.transference_request import (
     TransferenceRequestReadDenormalized
 )
 from app.models.patient_clinical_condition import (
+    PatientClinicalConditionCreate,
     PatientClinicalConditionReadWithUpdates
 )
 from app.models.patient_transference import (
@@ -65,6 +66,24 @@ def get_transference_request_by_id(
         id=id, db=db)
 
 
+@router.post(
+    '/{transference_request_id}/patient-clinical-condition',
+    status_code=status.HTTP_201_CREATED
+)
+def create_patient_clinical_condition_for_transference_request(
+    transference_request_id: int,
+    patient_clinical_condition: PatientClinicalConditionCreate,
+    db: Session = Depends(get_session)
+) -> PatientClinicalConditionReadWithUpdates:
+
+    return patient_clinical_condition_repository \
+        .create_patient_clinical_condition(
+            transference_request_id=transference_request_id,
+            patient_clinical_condition=patient_clinical_condition,
+            db=db
+        )
+
+
 @router.get('/{transference_request_id}/patient-clinical-condition')
 def get_patient_clinical_condition_of_transference_request(
     transference_request_id: int,
@@ -78,7 +97,7 @@ def get_patient_clinical_condition_of_transference_request(
         )
 
 
-@router.post('/{transference_request_id}/patient-transferences/')
+@router.post('/{transference_request_id}/patient-transference')
 def create_patient_transference_for_transference_request(
     transference_request_id: int,
     patient_transference: PatientTransferenceCreate,
@@ -92,7 +111,7 @@ def create_patient_transference_for_transference_request(
     )
 
 
-@router.get('/{transference_request_id}/patient-transferences/')
+@router.get('/{transference_request_id}/patient-transference')
 def get_patient_transference_of_transference_request(
     transference_request_id: int,
     db: Session = Depends(get_session)

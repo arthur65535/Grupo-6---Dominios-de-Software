@@ -44,14 +44,17 @@ class PatientTransference(PatientTransferenceBase, table=True):
 
     id: int | None = Field(default=None, primary_key=True)
 
+    # transference_request: TransferenceRequest | None = Relationship(
+    #     back_populates='patient_transference', 
+    #     sa_relationship=RelationshipProperty(
+    #         'transference_request',
+    #         primaryjoin='foreign(patient_transference.id) == transference_request.patient_transference_id',
+    #         uselist=False
+    #     )
+    # )
+
     transference_request: TransferenceRequest | None = Relationship(
-        back_populates='patient_transference', 
-        sa_relationship=RelationshipProperty(
-            'transference_request',
-            primaryjoin='foreign(patient_transference.id) == transference_request.patient_transference_id',
-            uselist=False
-        )
-    )
+        back_populates='patient_transference')
 
     emd_doctor: EMDDoctor | None = Relationship(
         back_populates='patient_transferences')

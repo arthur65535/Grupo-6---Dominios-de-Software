@@ -30,12 +30,12 @@ class TransferenceRequestBase(SQLModel):
     medical_bed_type_id: int | None = Field(
         default=None, foreign_key='medical_bed_type.id', nullable=False)
 
-    patient_transference_id: int | None = Field(
-        default=None,
-        foreign_key='patient_transference.id',
-        nullable=True,
-        unique=True
-    )
+    # patient_transference_id: int | None = Field(
+    #     default=None,
+    #     foreign_key='patient_transference.id',
+    #     nullable=True,
+    #     unique=True
+    # )
 
 
 class TransferenceRequest(TransferenceRequestBase, table=True):
@@ -55,14 +55,17 @@ class TransferenceRequest(TransferenceRequestBase, table=True):
     medical_bed_type: MedicalBedType | None = Relationship(
         back_populates='transference_requests')
 
+    # patient_transference: Optional['PatientTransference'] = Relationship(
+    #     back_populates='transference_request',
+    #     sa_relationship=RelationshipProperty(
+    #         'patient_transference',
+    #         primaryjoin='foreign(transference_request.id) == patient_transference.transference_request_id',
+    #         uselist=False
+    #     )
+    # )
+
     patient_transference: Optional['PatientTransference'] = Relationship(
-        back_populates='transference_request',
-        sa_relationship=RelationshipProperty(
-            'patient_transference',
-            primaryjoin='foreign(transference_request.id) == patient_transference.transference_request_id',
-            uselist=False
-        )
-    )
+        back_populates='transference_request')
 
     patient_clinical_condition: PatientClinicalCondition | None = Relationship(
         back_populates='transference_request'
@@ -82,5 +85,5 @@ class TransferenceRequestReadDenormalized(TransferenceRequestRead):
     requesting_doctor: Doctor
     requesting_hospital: Hospital
     medical_bed_type: MedicalBedType
-    patient_transference: Optional['PatientTransference']
-    patient_clinical_condition: PatientClinicalConditionReadWithUpdates
+    # patient_transference: Optional['PatientTransference']
+    # patient_clinical_condition: Optional[PatientClinicalConditionReadWithUpdates]

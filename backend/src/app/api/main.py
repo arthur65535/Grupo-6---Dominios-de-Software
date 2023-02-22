@@ -1,5 +1,5 @@
 import uvicorn
-from fastapi import Depends, FastAPI
+from fastapi import FastAPI
 from fastapi.openapi.docs import get_swagger_ui_html
 from fastapi.responses import FileResponse
 
@@ -30,6 +30,7 @@ app = FastAPI(
 )
 
 FAVICON_PATH = "favicon.ico"
+
 
 @app.on_event('startup')
 def on_startup():
@@ -62,10 +63,11 @@ app.include_router(
     patient_clinical_conditions.router,
     prefix='/patient-clinical-conditions'
 )
-app.include_router(patients.router, prefix='/patients')
 app.include_router(
-    patient_transferences.router, prefix='/patient-transferences'
+    patient_transferences.router,
+    prefix='/patient-transferences'
 )
+app.include_router(patients.router, prefix='/patients')
 app.include_router(
     transference_requests.router, prefix='/transference-requests'
 )

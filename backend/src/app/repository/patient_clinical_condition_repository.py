@@ -1,6 +1,6 @@
 from fastapi import HTTPException, status
 
-from sqlmodel import select, Session
+from sqlmodel import col, select, Session
 
 from app.models.patient_clinical_condition import (
     PatientClinicalCondition,
@@ -17,6 +17,7 @@ from app.repository import transference_request_repository
 
 
 def create_patient_clinical_condition(
+    transference_request_id: int,
     patient_clinical_condition: PatientClinicalConditionCreate,
     db: Session
 ) -> PatientClinicalConditionReadWithUpdates:
@@ -33,15 +34,18 @@ def create_patient_clinical_condition(
 
     transference_request = transference_request_repository \
         .get_transference_request_by_id(
-            patient_clinical_condition.transference_request_id,
+            transference_request_id,
             db
         )
 
-    if transference_request.patient_clinical_condition is not None:
+    if db.exec(
+        select(PatientClinicalCondition) \
+        .where(col(PatientClinicalCondition.transference_request_id) == transference_request_id)
+    ).first():
         raise HTTPException(
             status_code=status.HTTP_409_CONFLICT,
-            detail=f'There is already a clinical condition for transference'
-                   f' request with id {transference_request.id}'
+            detail= f"There is already a clinical condition for transference"
+                    f" request with id {transference_request_id}"
         )
 
     patient_clinical_condition_to_db = PatientClinicalCondition.from_orm(
@@ -89,23 +93,25 @@ def get_clinical_condition_by_transference_request_id(
     db: Session
 ) -> PatientClinicalConditionReadWithUpdates:
 
-    # if not transference_request_repository.exists_transference_request_with_id(
-    #     id=transference_request_id,
-    #     db=db
-    # ):
-    #     return HTTPException(
-    #         status_code=status.HTTP_404_NOT_FOUND,
-    #         detail=f"Not found transference request with id"
-    #                f"{transference_request_id}"
-    #     )
-
     transference_request = transference_request_repository \
         .get_transference_request_by_id(
             id=transference_request_id,
             db=db
         )
+    
+    patient_clinical_condition = db.exec(
+        select(PatientClinicalCondition) \
+        .where(col(PatientClinicalCondition.transference_request_id) == transference_request_id)
+    ).first()
 
-    return transference_request.patient_clinical_condition
+    if not patient_clinical_condition:
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail=f"Not found patient clinical condition for transference"
+                   f" request with id {transference_request_id}"
+        )
+
+    return patient_clinical_condition
 
 
 def create_update_of_patient_clinical_condition(

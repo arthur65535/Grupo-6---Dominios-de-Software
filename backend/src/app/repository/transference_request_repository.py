@@ -40,7 +40,7 @@ def get_transference_request_by_id(
             status_code=status.HTTP_404_NOT_FOUND,
             detail=f'Not found transference request with id {id}'
         )
-
+    
     return transference_request
 
 
