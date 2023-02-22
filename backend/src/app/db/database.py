@@ -10,8 +10,8 @@ from app.models.patient import *
 from app.models.transference_request import *
 
 USER = "postgres"
-PASSWORD = 123456789
-HOST = "localhost"
+PASSWORD = "development"
+HOST = "db"
 PORT = 5432
 DATABASE = "stp"
 

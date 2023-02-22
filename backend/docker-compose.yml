@@ -1,0 +1,32 @@
+version: "3.8"
+services:
+  db:
+    image: postgres:14.6
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=development
+    volumes:
+      - app-db-data:/var/lib/postgresql/data
+      - type: tmpfs
+        target: /dev/shm
+    ports:
+      - "5432:5432"
+    # command: /usr/bin/psql -U postgres -c "create database stp;" 
+    networks:
+      - app-network
+    
+  app:
+    build: .
+    command: bash -c "/usr/bin/psql postgresql://postgres:development@db:5432 -c 'drop database if exists stp' && /usr/bin/psql postgresql://postgres:development@db:5432 -c 'create database stp' && alembic upgrade head && poetry run start"
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+    networks:
+      - app-network
+
+volumes:
+  app-db-data:
+
+networks:
+  app-network:
