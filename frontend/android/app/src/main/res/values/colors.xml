@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <color name="primary">#3A4D6E</color>
+  <color name="secondary">#E0A100</color>
+  <color name="tertiary">#182539</color>
+  <color name="notification_icon">#3A4D6E</color>
+</resources>
