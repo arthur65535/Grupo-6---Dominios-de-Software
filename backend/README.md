@@ -33,3 +33,47 @@ Entretanto, devido a restrição de tempo para implementação, a arquitetura f�
 A arquitetura de dados escolhida foi um banco de dados relacional como SGBD PostgreSQL.
 
 O diagrama conceitual do schema do banco de dados, contendo seus tipos de entidades e relacionamentos, está no arquivo https://github.com/arthur65535/Grupo-6---Dominios-de-Software/blob/main/Documenta%C3%A7%C3%A3o/DiagramaEntidade-Relacionamento.jpg.
+
+
+## Instalação
+
+### Pré-requisitos
+
+- Docker.
+- Docker Compose.
+- Git.
+
+### Passos
+
+1. Clone o repositório do projeto STP:
+
+```sh
+git clone https://github.com/arthur65535/Grupo-6---Dominios-de-Software
+```
+
+2. Vá até o diretório do backend:
+
+```sh
+cd backend
+```
+
+3. Use o docker compose para criar os containers e executá-los em background:
+
+```sh
+docker compose up -d
+```
+
+Pronto, agora é possível verificar que o Web Service está executando utilizando algum cliente HTTP, por exemplo, o curl:
+
+```sh
+curl -X GET http://localhost:8000/ --include
+```
+
+Tal requisição terá como resposta uma mensagem com status code 200 OK e body contendo o objeto JSON `{"hello": "world"}`
+
+
+## Documentação
+
+É possível acessar uma documentação interativa do API REST gerada automaticamente pelo Swagger UI na URL `http://localhost:8000/docs` ou pelo ReDoc em `http://localhost:8000/redoc`.
+
+Tais documentações são geradas a partir do conteúdo no arquivo JSON em `http://localhost:8000/openapi.json` baseado no padrão [OpenAPI](https://swagger.io/resources/open-api/).
